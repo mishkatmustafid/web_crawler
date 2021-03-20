@@ -9632,6 +9632,9 @@ http://webmail.lawyersnjurists.com?locale=zh_tw?locale=zh_tw
 http://webmail.lawyersnjurists.com?locale=zh_twjavascript:void(0)
 http://webmail.lawyersnjurists.com?locale=zhjavascript:void(0)
 http://webmail.lawyersnjurists.comjavascript:void(0)
+http://www.lawyersnjurists.com/lawyer_ci/
+http://www.lawyersnjurists.com/lawyer_ci/#
+http://www.lawyersnjurists.com/lawyer_ci/case_search
 http://www.lawyersnjurists.com/webmail
 http://www.lawyersnjurists.com:2095
 http://www.lawyersnjurists.com:2095/?locale=ar
@@ -14390,6 +14393,7 @@ http://www.lawyersnjurists.com:2095?locale=zhjavascript:void(0)
 http://www.lawyersnjurists.com:2095javascript:void(0)
 https://webmail.lawyersnjurists.com
 https://webmail.lawyersnjurists.com/resetpass?start=1
+https://www.lawyersnjurists.com/webmail
 https://www.lawyersnjurists.com:2096
 https://www.lawyersnjurists.com:2096/
 https://www.lawyersnjurists.com:2096/?locale=ar

@@ -1,386 +1,311 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<!-- Basic page needs -->
-<meta charset="utf-8"/>
-<!--[if IE]>
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<![endif]-->
-<meta content="JgAwVm96UZhl_mIGS1-XN1zBkUZtySS49y7bDYb8hLI" name="google-site-verification"/>
-<meta content="ie=edge" http-equiv="x-ua-compatible"/>
-<title>The Lawyers and Jurists</title>
-<!-- Mobile specific metas  -->
-<meta content="width=device-width, initial-scale=1" name="viewport"/>
-<!-- Favicon  -->
-<link href="https://www.lawyersnjurists.com/wp-content/uploads/favicon.jpg" rel="shortcut icon"/>
-<!-- CSS Style -->
-<link href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/css/bootstrap-datetimepicker.css" rel="stylesheet"/>
-<link href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/css/img.css" rel="stylesheet"/>
-<link href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/style.css" rel="stylesheet"/>
-<link href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/css/style.css" rel="stylesheet"/>
-<link href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/css/responsive.css" rel="stylesheet"/>
-<link href="https://www.lawyersnjurists.com/lawyer_ci/asset/css/jquery-ui.css" rel="stylesheet"/>
-<link href="https://www.lawyersnjurists.com/lawyer_ci/asset/css/daterangepicker.css" rel="stylesheet"/>
-<!-- jquery js -->
-<script src="https://www.lawyersnjurists.com/lawyer_ci/frontend/js/jquery.min.js" type="text/javascript"></script>
-<link href="https://www.lawyersnjurists.com/wp-content/uploads/maxmegamenu/style.css?ver=392b02" id="megamenu-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.lawyersnjurists.com/wp-includes/css/dashicons.min.css?ver=4.8.2" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NKLG795');</script>
-<!-- End Google Tag Manager -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-109305892-1', 'auto');
-  ga('send', 'pageview');
-</script>
-</head>
-<body class="cms-index-index cms-home-page">
-<div id="page">
-<!--[if lt IE 8]>
-<![endif]-->
-<!-- Header -->
-<header>
-<div class="header-container new_header">
-<div class="container">
-<div class="row">
-<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-<!-- Header Logo -->
-<div class="logo">
-<a href="https://www.lawyersnjurists.com">
-<img alt="" src="https://www.lawyersnjurists.com/wp-content/uploads/main_logo.png"/>
-</a>
-</div>
-<!-- End Header Logo -->
-</div>
-<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-<div class="header-info">
-<ul>
-<li><strong><i class="fa fa-headphones"></i> +8801712620018</strong><br/>Call Us For Free Consultation</li>
-<li><a href="https://www.facebook.com/Lawyersandjurists" target="_blank"><i class="fa fa-facebook"></i><br/>Facebook</a></li>
-<li><a href="https://twitter.com/lawforpeople" target="_blank"><i class="fa fa-twitter"></i><br/>Twitter</a></li>
-<li><a href="https://www.linkedin.com/in/tjurists" target="_blank"><i class="fa fa-linkedin"></i><br/>Linkedin</a></li>
-<li><a href="https://www.youtube.com/channel/UCmyM8Zeiy-B4APJV9pXm5bA" target="_blank"><i class="fa fa-youtube"></i><br/>Youtube</a></li>
-<li><a href="#" id="src-btn"><i class="fa fa-search"></i><br/>Search</a></li>
-</ul>
-</div>
-</div>
-<!--<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
-            <div class="search-box case-btn" style="margin-top:25px;">
-              <a href="https://www.lawyersnjurists.com/lawyer_ci/case_search" class="btn btn-warning pull-right">Case Search</a>
-            </div>
-          </div>-->
-</div>
-</div>
-</div>
-<div class="search-box new-search-box" style="width:100%;">
-<button class="btn pull-right" id="src-hide" style="margin-right:10px; margin-top:10px;"><i class="fa fa-remove"></i></button>
-<div class="container">
-<script>
-				  (function() {
-					var cx = '009037759246690080400:f4bvrxkxc9y';
-					var gcse = document.createElement('script');
-					gcse.type = 'text/javascript';
-					gcse.async = true;
-					gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-					var s = document.getElementsByTagName('script')[0];
-					s.parentNode.insertBefore(gcse, s);
-				  })();
-				</script>
-<gcse:search></gcse:search>
-</div>
-</div>
-</header>
-<!-- end header -->
-<!-- Navigation -->
-<nav>
-<div class="container">
-<div class="row">
-<div class="nav-inner">
-<div class="col-md-10 col-sm-10 col-lg-10">
-<div class="mega-menu-wrap" id="mega-menu-wrap-primary-menu"><div class="mega-menu-toggle" tabindex="0"><div class="mega-toggle-block mega-menu-toggle-block mega-toggle-block-right mega-toggle-block-1" id="mega-toggle-block-1"></div></div><ul class="mega-menu mega-menu-horizontal mega-no-js" data-breakpoint="600" data-document-click="collapse" data-effect="fade_up" data-effect-speed="600" data-event="hover_intent" data-second-click="close" data-unbind="true" data-vertical-behaviour="standard" id="mega-menu-primary-menu"><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-home mega-align-bottom-left mega-menu-flyout mega-menu-item-11343" id="mega-menu-item-11343"><a class="mega-menu-link" href="https://www.lawyersnjurists.com/" tabindex="0">Home</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-59" id="mega-menu-item-59"><a class="mega-menu-link" href="https://www.lawyersnjurists.com/about-us/" tabindex="0">About us</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-page_item mega-page-item-69 mega-current_page_item mega-align-bottom-left mega-menu-flyout mega-menu-item-73" id="mega-menu-item-73"><a class="mega-menu-link" href="https://www.lawyersnjurists.com/our-lawyers/" tabindex="0">Our Lawyers</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-13" id="mega-menu-item-13"><a class="mega-menu-link" href="https://www.lawyersnjurists.com/our-services/" tabindex="0">Our Services</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-35" id="mega-menu-item-35"><a class="mega-menu-link" href="https://www.lawyersnjurists.com/our-clients/" tabindex="0">Our Clients</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-81" id="mega-menu-item-81"><a aria-haspopup="true" class="mega-menu-link" href="#" tabindex="0">Career</a>
-<ul class="mega-sub-menu">
-<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-83" id="mega-menu-item-83"><a class="mega-menu-link" href="https://www.lawyersnjurists.com/internship/">Internship</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-82" id="mega-menu-item-82"><a class="mega-menu-link" href="https://www.lawyersnjurists.com/inhouse-lawyer/">Inhouse Lawyer</a></li></ul>
-</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-11372" id="mega-menu-item-11372"><a class="mega-menu-link" href="https://www.lawyersnjurists.com/gallery/" tabindex="0">Gallery</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-76" id="mega-menu-item-76"><a class="mega-menu-link" href="https://www.lawyersnjurists.com/contact-us/" tabindex="0">Contact us</a></li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-11378" id="mega-menu-item-11378"><a class="mega-menu-link" href="https://www.lawyersnjurists.com/webmail" tabindex="0">Webmail</a></li></ul></div> </div>
-<div class="col-md-2 col-sm-2 col-lg-2">
-<a class="case-src-btn" href="https://www.lawyersnjurists.com/lawyer_ci/case_search" style="font-size:11px;">Advanced Search <i class="fa fa-angle-double-right"></i></a>
-</div>
-</div>
-</div>
-</div>
-</nav>
-<!-- end nav -->
-<!-- JTV Home Slider -->
-<div class="jtv-slideshow">
-<div class="container">
-<div class="row">
-<div class="col-sm-12">
-<div class="jtv-title">
-<h2>Monthly Journals</h2>
-<p style="margin-bottom:10px;">Total Article Count 10</p>
-</div>
-<div id="content" role="main">
-<article class="blog_entry">
-<header class="blog_entry-header">
-<div class="blog_entry-header-inner">
-<h2 class="blog_entry-title"> <a href="https://www.lawyersnjurists.com/lawyer_ci/journal/mahua-khair-vs-amena-begum-ali-ispahani-1-lnj-ad-2012-68" rel="bookmark">Mahua Khair Vs. Amena Begum Ali Ispahani, 1 LNJ (AD) (2012) 68</a> </h2>
-</div>
-<!--blog_entry-header-inner-->
-</header>
-<div class="entry-content">
-<div class="entry-content">
-<p><b>Case No:</b> Civil Appeal Nos. 148-49 of 2007 </p>
-<p><b>Judge:</b>  Muhammad Imman Ali,</p>
-<p><b>Court:</b> Appellate Division ,,</p>
-<p><b>Advocate:</b> Mr. Rafique-ul-Huq,Mr. Abdul Wadud Bhuiyan,,</p>
-<b>Citation:</b>  1 LNJ (AD) (2012) 68
-                  </div>
-<p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/mahua-khair-vs-amena-begum-ali-ispahani-1-lnj-ad-2012-68">Read More</a> </p>
-</div>
-</article>
-<article class="blog_entry">
-<header class="blog_entry-header">
-<div class="blog_entry-header-inner">
-<h2 class="blog_entry-title"> <a href="https://www.lawyersnjurists.com/lawyer_ci/journal/kabir-ahmed-and-others-vs-sultan-ahammed-and-others-1-lnj-2012-397" rel="bookmark">Kabir Ahmed and others Vs. Sultan Ahammed and others, 1 LNJ (2012) 397</a> </h2>
-</div>
-<!--blog_entry-header-inner-->
-</header>
-<div class="entry-content">
-<div class="entry-content">
-<p><b>Case No:</b> Civil Revision No. 3227 of 2006 </p>
-<p><b>Judge:</b>  Sharif Uddin Chaklader,</p>
-<p><b>Court:</b> High Court Division,,</p>
-<p><b>Advocate:</b> Mr. Syed Mokaddas Ali,Mr. Tajul Islam Miajee,,</p>
-<b>Citation:</b>  1 LNJ (2012) 397
-                  </div>
-<p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/kabir-ahmed-and-others-vs-sultan-ahammed-and-others-1-lnj-2012-397">Read More</a> </p>
-</div>
-</article>
-<article class="blog_entry">
-<header class="blog_entry-header">
-<div class="blog_entry-header-inner">
-<h2 class="blog_entry-title"> <a href="https://www.lawyersnjurists.com/lawyer_ci/journal/the-state-vs-nowsha-alias-nowser-1-lnj-2012-404" rel="bookmark">The State Vs. Nowsha alias Nowser, 1 LNJ 2012 404</a> </h2>
-</div>
-<!--blog_entry-header-inner-->
-</header>
-<div class="entry-content">
-<div class="entry-content">
-<p><b>Case No:</b> Death Reference No. 31 of 2006  </p>
-<p><b>Judge:</b>  Syed Md. Ziaul Karim,</p>
-<p><b>Court:</b> High Court Division,,</p>
-<p><b>Advocate:</b> Mr. Md. Bahar Uddin-Al-Razi,Mr. M.A. Mannan Mahon,Mr. Md. Alal Uddin,,</p>
-<b>Citation:</b>  1 LNJ 2012 404
-                  </div>
-<p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/the-state-vs-nowsha-alias-nowser-1-lnj-2012-404">Read More</a> </p>
-</div>
-</article>
-<article class="blog_entry">
-<header class="blog_entry-header">
-<div class="blog_entry-header-inner">
-<h2 class="blog_entry-title"> <a href="https://www.lawyersnjurists.com/lawyer_ci/journal/government-of-bangladesh-vs-kothari-fermentation-and-biochem-ltd-1-lnj-2012-411" rel="bookmark">Government of Bangladesh Vs. Kothari Fermentation and Biochem Ltd. 1 LNJ (2012) 411</a> </h2>
-</div>
-<!--blog_entry-header-inner-->
-</header>
-<div class="entry-content">
-<div class="entry-content">
-<p><b>Case No:</b> First Appeal No. 131 of 2011  </p>
-<p><b>Judge:</b>  Krishna Debnath,</p>
-<p><b>Court:</b> High Court Division,,</p>
-<p><b>Advocate:</b> ,</p>
-<b>Citation:</b>  1 LNJ (2012) 411
-                  </div>
-<p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/government-of-bangladesh-vs-kothari-fermentation-and-biochem-ltd-1-lnj-2012-411">Read More</a> </p>
-</div>
-</article>
-<article class="blog_entry">
-<header class="blog_entry-header">
-<div class="blog_entry-header-inner">
-<h2 class="blog_entry-title"> <a href="https://www.lawyersnjurists.com/lawyer_ci/journal/nazir-ahmed-and-others-vs-md-fajal-ahmed-and-others-1-lnj-2012-413" rel="bookmark">Nazir Ahmed and others Vs. Md. Fajal Ahmed and others, 1 LNJ (2012) 413</a> </h2>
-</div>
-<!--blog_entry-header-inner-->
-</header>
-<div class="entry-content">
-<div class="entry-content">
-<p><b>Case No:</b> First Appeal No. 153 of 2001 </p>
-<p><b>Judge:</b>  Nozrul Islam Chowdhury,</p>
-<p><b>Court:</b> High Court Division,,</p>
-<p><b>Advocate:</b> Mr. Md. Abdus Salam Mondal,Mr. Fazlul Hoq,,</p>
-<b>Citation:</b>  1 LNJ (2012) 413
-                  </div>
-<p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/nazir-ahmed-and-others-vs-md-fajal-ahmed-and-others-1-lnj-2012-413">Read More</a> </p>
-</div>
-</article>
-<article class="blog_entry">
-<header class="blog_entry-header">
-<div class="blog_entry-header-inner">
-<h2 class="blog_entry-title"> <a href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-abu-taher-vs-md-jashim-uddin-and-another-1-lnj-2012-425" rel="bookmark">Md. Abu Taher Vs. Md. Jashim Uddin and another, 1 LNJ (2012) 425</a> </h2>
-</div>
-<!--blog_entry-header-inner-->
-</header>
-<div class="entry-content">
-<div class="entry-content">
-<p><b>Case No:</b> Civil Revision No. 1983 of 2010 </p>
-<p><b>Judge:</b>  Md. Badruzzaman,</p>
-<p><b>Court:</b> High Court Division,,</p>
-<p><b>Advocate:</b> ,</p>
-<b>Citation:</b>  1 LNJ (2012) 425
-                  </div>
-<p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-abu-taher-vs-md-jashim-uddin-and-another-1-lnj-2012-425">Read More</a> </p>
-</div>
-</article>
-<article class="blog_entry">
-<header class="blog_entry-header">
-<div class="blog_entry-header-inner">
-<h2 class="blog_entry-title"> <a href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-mazedul-islam-limon-vs-most-nazi-fatema-tamanna-and-others-1-lnj-2012-431" rel="bookmark">Md. Mazedul Islam (Limon) Vs. Most Nazi Fatema Tamanna and others, 1 LNJ 2012 431</a> </h2>
-</div>
-<!--blog_entry-header-inner-->
-</header>
-<div class="entry-content">
-<div class="entry-content">
-<p><b>Case No:</b> F. M. A. No. 215 of 2011 </p>
-<p><b>Judge:</b>  Nozrul Islam Chowdhury,</p>
-<p><b>Court:</b> High Court Division,,</p>
-<p><b>Advocate:</b> ,</p>
-<b>Citation:</b>  1 LNJ 2012 431
-                  </div>
-<p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-mazedul-islam-limon-vs-most-nazi-fatema-tamanna-and-others-1-lnj-2012-431">Read More</a> </p>
-</div>
-</article>
-<article class="blog_entry">
-<header class="blog_entry-header">
-<div class="blog_entry-header-inner">
-<h2 class="blog_entry-title"> <a href="https://www.lawyersnjurists.com/lawyer_ci/journal/saijuddin-molla-vs-abdur-rahman-and-others-1-lnj-2012-432" rel="bookmark">Saijuddin Molla Vs. Abdur Rahman and others, 1 LNJ (2012) 432</a> </h2>
-</div>
-<!--blog_entry-header-inner-->
-</header>
-<div class="entry-content">
-<div class="entry-content">
-<p><b>Case No:</b> Civil Revision No. 1251 of 2010 </p>
-<p><b>Judge:</b>  Sheikh Abdul Awal,</p>
-<p><b>Court:</b> High Court Division,,</p>
-<p><b>Advocate:</b> Mr. Syed Mahmudul Ahsan,,</p>
-<b>Citation:</b>  1 LNJ (2012) 432
-                  </div>
-<p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/saijuddin-molla-vs-abdur-rahman-and-others-1-lnj-2012-432">Read More</a> </p>
-</div>
-</article>
-<article class="blog_entry">
-<header class="blog_entry-header">
-<div class="blog_entry-header-inner">
-<h2 class="blog_entry-title"> <a href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-monsur-hossain-vs-md-shah-newaz-and-others-1-lnj-2012-436" rel="bookmark">Md. Monsur Hossain Vs. Md. Shah Newaz and others, 1 LNJ (2012) 436</a> </h2>
-</div>
-<!--blog_entry-header-inner-->
-</header>
-<div class="entry-content">
-<div class="entry-content">
-<p><b>Case No:</b> Civil Revision No. 1304 of 1999 </p>
-<p><b>Judge:</b>  Shahidul Islam,</p>
-<p><b>Court:</b> High Court Division,,</p>
-<p><b>Advocate:</b> Mr. Abdul Wadud Bhuiyan,Mr. Syed Mokaddas Ali,,</p>
-<b>Citation:</b>  1 LNJ (2012) 436
-                  </div>
-<p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-monsur-hossain-vs-md-shah-newaz-and-others-1-lnj-2012-436">Read More</a> </p>
-</div>
-</article>
-<article class="blog_entry">
-<header class="blog_entry-header">
-<div class="blog_entry-header-inner">
-<h2 class="blog_entry-title"> <a href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-mahfuzur-rahman-and-another-vs-government-of-bangladesh-and-others-1-lnj-2012-444" rel="bookmark">Md. Mahfuzur Rahman and another Vs. Government of Bangladesh and others, 1 LNJ (2012) 444</a> </h2>
-</div>
-<!--blog_entry-header-inner-->
-</header>
-<div class="entry-content">
-<div class="entry-content">
-<p><b>Case No:</b> Writ Petition No. 5537 of 2009 </p>
-<p><b>Judge:</b>  Moyeenul Islam Chowdhury,</p>
-<p><b>Court:</b> High Court Division,,</p>
-<p><b>Advocate:</b> Md. Ashadullah,Mr. M. K. Rahman,Mr. Karunamoy Chakma,,</p>
-<b>Citation:</b>  1 LNJ (2012) 444
-                  </div>
-<p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-mahfuzur-rahman-and-another-vs-government-of-bangladesh-and-others-1-lnj-2012-444">Read More</a> </p>
-</div>
-</article>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<!-- Footer -->
-<!-- Footer -->
-<footer>
-<div class="footer-inner">
-<div class="container">
-<div class="row">
-<div class="col-sm-9 col-lg-9 col-md-9">
-<div class="footer-menu">
-<div class="menu-footer-top-menu-container"><ul class="menu" id="menu-footer-top-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11397" id="menu-item-11397"><a href="https://www.lawyersnjurists.com/about-us/">About us</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11398" id="menu-item-11398"><a href="https://www.lawyersnjurists.com/our-services/">Our Services</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11566" id="menu-item-11566"><a href="https://www.lawyersnjurists.com/our-clients/">Our Clients</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11564" id="menu-item-11564"><a href="https://www.lawyersnjurists.com/videos/">Videos</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11401" id="menu-item-11401"><a href="https://www.lawyersnjurists.com/gallery/">Gallery</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11400" id="menu-item-11400"><a href="https://www.lawyersnjurists.com/inhouse-lawyer/">Career</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99" id="menu-item-99"><a href="https://www.lawyersnjurists.com/contact-us/">Contact us</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11563" id="menu-item-11563"><a href="https://www.lawyersnjurists.com/disclaimer/">Disclaimer</a></li>
-</ul></div> <div class="menu-footer-bottom-container"><ul class="menu" id="menu-footer-bottom"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118" id="menu-item-118"><a href="https://www.lawyersnjurists.com/find-books/">Find Books</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121" id="menu-item-121"><a href="https://www.lawyersnjurists.com/conventions-treaties/">Conventions &amp; Treaties</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120" id="menu-item-120"><a href="https://www.lawyersnjurists.com/legal-courses/">Legal Courses</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11467" id="menu-item-11467"><a href="https://www.lawyersnjurists.com/setup-business-in-bangladesh/">Setup Business</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11402" id="menu-item-11402"><a href="https://www.lawyersnjurists.com/lawyer_ci/case_search">Case Management</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11565" id="menu-item-11565"><a href="https://www.lawyersnjurists.com/articles-and-reports/">Articles and Reports</a></li>
-</ul></div> <p class="coppyrightnew">© 2017 All Rights Reserved. | Designed &amp; Developed by <a href="http://sizramsolutions.com" rel="nofollow" target="_blank"><b>SIZRAM SOLUTIONS.</b></a></p>
-</div>
-</div>
-<div class="col-sm-3 col-lg-3 col-md-3">
-<div class="pay">
-<img alt="" src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/bkash.png"/>
-<img alt="" src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/dbbl.png"/>
-<img alt="" src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/mastercard.png"/>
-<img alt="" src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/visa.png"/>
-<img alt="" src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/rocket.png"/>
-<img alt="" src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/paypal.png"/>
-</div>
-</div>
-</div>
-</div>
-</div>
-</footer>
-<!-- End Footer -->
-<!-- bootstrap js -->
-<script src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/js/bootstrap.min.js" type="text/javascript"></script>
-<!-- DateJS -->
-<script src="https://www.lawyersnjurists.com/lawyer_ci/asset/js/date.js"></script>
-<script src="https://www.lawyersnjurists.com/lawyer_ci/asset/js/moment.min.js"></script>
-<script src="https://www.lawyersnjurists.com/lawyer_ci/asset/js/daterangepicker.js"></script>
-<script src="https://www.lawyersnjurists.com/lawyer_ci/asset/js/custom.min.js"></script>
-<!-- main js -->
-<script src="https://www.lawyersnjurists.com/lawyer_ci/frontend/js/main.js" type="text/javascript"></script>
-<!-- main js -->
-<script src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/js/main.js" type="text/javascript"></script>
-<script type="text/javascript">
 
-
-$('#src-btn').click(function(event){
-  event.preventDefault();
-  $('.new-search-box').show();
-  });
-$('#src-hide').click(function(event){
-  event.preventDefault();
-  $('.new-search-box').hide();
-  });
-</script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var megamenu = {"timeout":"300","interval":"100"};
-/* ]]> */
-</script>
-<script src="https://www.lawyersnjurists.com/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.4" type="text/javascript"></script>
-<script src="https://www.lawyersnjurists.com/wp-includes/js/wp-embed.min.js?ver=4.8.2" type="text/javascript"></script>
-</body>
-</html>
+<article class="blog_entry">
+	<header class="blog_entry-header">
+		<div class="blog_entry-header-inner">
+			<h2 class="blog_entry-title">
+				<a href="https://www.lawyersnjurists.com/lawyer_ci/journal/mahua-khair-vs-amena-begum-ali-ispahani-1-lnj-ad-2012-68" rel="bookmark">Mahua Khair Vs. Amena Begum Ali Ispahani, 1 LNJ (AD) (2012) 68</a>
+			</h2>
+		</div>
+		<!--blog_entry-header-inner-->
+	</header>
+	<div class="entry-content">
+		<div class="entry-content">
+			<p>
+				<b>Case No:</b> Civil Appeal Nos. 148-49 of 2007 
+			</p>
+			<p>
+				<b>Judge:</b>  Muhammad Imman Ali,
+			</p>
+			<p>
+				<b>Court:</b> Appellate Division ,,
+			</p>
+			<p>
+				<b>Advocate:</b> Mr. Rafique-ul-Huq,Mr. Abdul Wadud Bhuiyan,,
+			</p>
+			<b>Citation:</b>  1 LNJ (AD) (2012) 68
+                  
+		</div>
+		<p>
+			<a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/mahua-khair-vs-amena-begum-ali-ispahani-1-lnj-ad-2012-68">Read More</a>
+		</p>
+	</div>
+</article>
+<article class="blog_entry">
+	<header class="blog_entry-header">
+		<div class="blog_entry-header-inner">
+			<h2 class="blog_entry-title">
+				<a href="https://www.lawyersnjurists.com/lawyer_ci/journal/kabir-ahmed-and-others-vs-sultan-ahammed-and-others-1-lnj-2012-397" rel="bookmark">Kabir Ahmed and others Vs. Sultan Ahammed and others, 1 LNJ (2012) 397</a>
+			</h2>
+		</div>
+		<!--blog_entry-header-inner-->
+	</header>
+	<div class="entry-content">
+		<div class="entry-content">
+			<p>
+				<b>Case No:</b> Civil Revision No. 3227 of 2006 
+			</p>
+			<p>
+				<b>Judge:</b>  Sharif Uddin Chaklader,
+			</p>
+			<p>
+				<b>Court:</b> High Court Division,,
+			</p>
+			<p>
+				<b>Advocate:</b> Mr. Syed Mokaddas Ali,Mr. Tajul Islam Miajee,,
+			</p>
+			<b>Citation:</b>  1 LNJ (2012) 397
+                  
+		</div>
+		<p>
+			<a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/kabir-ahmed-and-others-vs-sultan-ahammed-and-others-1-lnj-2012-397">Read More</a>
+		</p>
+	</div>
+</article>
+<article class="blog_entry">
+	<header class="blog_entry-header">
+		<div class="blog_entry-header-inner">
+			<h2 class="blog_entry-title">
+				<a href="https://www.lawyersnjurists.com/lawyer_ci/journal/the-state-vs-nowsha-alias-nowser-1-lnj-2012-404" rel="bookmark">The State Vs. Nowsha alias Nowser, 1 LNJ 2012 404</a>
+			</h2>
+		</div>
+		<!--blog_entry-header-inner-->
+	</header>
+	<div class="entry-content">
+		<div class="entry-content">
+			<p>
+				<b>Case No:</b> Death Reference No. 31 of 2006  
+			</p>
+			<p>
+				<b>Judge:</b>  Syed Md. Ziaul Karim,
+			</p>
+			<p>
+				<b>Court:</b> High Court Division,,
+			</p>
+			<p>
+				<b>Advocate:</b> Mr. Md. Bahar Uddin-Al-Razi,Mr. M.A. Mannan Mahon,Mr. Md. Alal Uddin,,
+			</p>
+			<b>Citation:</b>  1 LNJ 2012 404
+                  
+		</div>
+		<p>
+			<a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/the-state-vs-nowsha-alias-nowser-1-lnj-2012-404">Read More</a>
+		</p>
+	</div>
+</article>
+<article class="blog_entry">
+	<header class="blog_entry-header">
+		<div class="blog_entry-header-inner">
+			<h2 class="blog_entry-title">
+				<a href="https://www.lawyersnjurists.com/lawyer_ci/journal/government-of-bangladesh-vs-kothari-fermentation-and-biochem-ltd-1-lnj-2012-411" rel="bookmark">Government of Bangladesh Vs. Kothari Fermentation and Biochem Ltd. 1 LNJ (2012) 411</a>
+			</h2>
+		</div>
+		<!--blog_entry-header-inner-->
+	</header>
+	<div class="entry-content">
+		<div class="entry-content">
+			<p>
+				<b>Case No:</b> First Appeal No. 131 of 2011  
+			</p>
+			<p>
+				<b>Judge:</b>  Krishna Debnath,
+			</p>
+			<p>
+				<b>Court:</b> High Court Division,,
+			</p>
+			<p>
+				<b>Advocate:</b> ,
+			</p>
+			<b>Citation:</b>  1 LNJ (2012) 411
+                  
+		</div>
+		<p>
+			<a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/government-of-bangladesh-vs-kothari-fermentation-and-biochem-ltd-1-lnj-2012-411">Read More</a>
+		</p>
+	</div>
+</article>
+<article class="blog_entry">
+	<header class="blog_entry-header">
+		<div class="blog_entry-header-inner">
+			<h2 class="blog_entry-title">
+				<a href="https://www.lawyersnjurists.com/lawyer_ci/journal/nazir-ahmed-and-others-vs-md-fajal-ahmed-and-others-1-lnj-2012-413" rel="bookmark">Nazir Ahmed and others Vs. Md. Fajal Ahmed and others, 1 LNJ (2012) 413</a>
+			</h2>
+		</div>
+		<!--blog_entry-header-inner-->
+	</header>
+	<div class="entry-content">
+		<div class="entry-content">
+			<p>
+				<b>Case No:</b> First Appeal No. 153 of 2001 
+			</p>
+			<p>
+				<b>Judge:</b>  Nozrul Islam Chowdhury,
+			</p>
+			<p>
+				<b>Court:</b> High Court Division,,
+			</p>
+			<p>
+				<b>Advocate:</b> Mr. Md. Abdus Salam Mondal,Mr. Fazlul Hoq,,
+			</p>
+			<b>Citation:</b>  1 LNJ (2012) 413
+                  
+		</div>
+		<p>
+			<a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/nazir-ahmed-and-others-vs-md-fajal-ahmed-and-others-1-lnj-2012-413">Read More</a>
+		</p>
+	</div>
+</article>
+<article class="blog_entry">
+	<header class="blog_entry-header">
+		<div class="blog_entry-header-inner">
+			<h2 class="blog_entry-title">
+				<a href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-abu-taher-vs-md-jashim-uddin-and-another-1-lnj-2012-425" rel="bookmark">Md. Abu Taher Vs. Md. Jashim Uddin and another, 1 LNJ (2012) 425</a>
+			</h2>
+		</div>
+		<!--blog_entry-header-inner-->
+	</header>
+	<div class="entry-content">
+		<div class="entry-content">
+			<p>
+				<b>Case No:</b> Civil Revision No. 1983 of 2010 
+			</p>
+			<p>
+				<b>Judge:</b>  Md. Badruzzaman,
+			</p>
+			<p>
+				<b>Court:</b> High Court Division,,
+			</p>
+			<p>
+				<b>Advocate:</b> ,
+			</p>
+			<b>Citation:</b>  1 LNJ (2012) 425
+                  
+		</div>
+		<p>
+			<a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-abu-taher-vs-md-jashim-uddin-and-another-1-lnj-2012-425">Read More</a>
+		</p>
+	</div>
+</article>
+<article class="blog_entry">
+	<header class="blog_entry-header">
+		<div class="blog_entry-header-inner">
+			<h2 class="blog_entry-title">
+				<a href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-mazedul-islam-limon-vs-most-nazi-fatema-tamanna-and-others-1-lnj-2012-431" rel="bookmark">Md. Mazedul Islam (Limon) Vs. Most Nazi Fatema Tamanna and others, 1 LNJ 2012 431</a>
+			</h2>
+		</div>
+		<!--blog_entry-header-inner-->
+	</header>
+	<div class="entry-content">
+		<div class="entry-content">
+			<p>
+				<b>Case No:</b> F. M. A. No. 215 of 2011 
+			</p>
+			<p>
+				<b>Judge:</b>  Nozrul Islam Chowdhury,
+			</p>
+			<p>
+				<b>Court:</b> High Court Division,,
+			</p>
+			<p>
+				<b>Advocate:</b> ,
+			</p>
+			<b>Citation:</b>  1 LNJ 2012 431
+                  
+		</div>
+		<p>
+			<a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-mazedul-islam-limon-vs-most-nazi-fatema-tamanna-and-others-1-lnj-2012-431">Read More</a>
+		</p>
+	</div>
+</article>
+<article class="blog_entry">
+	<header class="blog_entry-header">
+		<div class="blog_entry-header-inner">
+			<h2 class="blog_entry-title">
+				<a href="https://www.lawyersnjurists.com/lawyer_ci/journal/saijuddin-molla-vs-abdur-rahman-and-others-1-lnj-2012-432" rel="bookmark">Saijuddin Molla Vs. Abdur Rahman and others, 1 LNJ (2012) 432</a>
+			</h2>
+		</div>
+		<!--blog_entry-header-inner-->
+	</header>
+	<div class="entry-content">
+		<div class="entry-content">
+			<p>
+				<b>Case No:</b> Civil Revision No. 1251 of 2010 
+			</p>
+			<p>
+				<b>Judge:</b>  Sheikh Abdul Awal,
+			</p>
+			<p>
+				<b>Court:</b> High Court Division,,
+			</p>
+			<p>
+				<b>Advocate:</b> Mr. Syed Mahmudul Ahsan,,
+			</p>
+			<b>Citation:</b>  1 LNJ (2012) 432
+                  
+		</div>
+		<p>
+			<a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/saijuddin-molla-vs-abdur-rahman-and-others-1-lnj-2012-432">Read More</a>
+		</p>
+	</div>
+</article>
+<article class="blog_entry">
+	<header class="blog_entry-header">
+		<div class="blog_entry-header-inner">
+			<h2 class="blog_entry-title">
+				<a href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-monsur-hossain-vs-md-shah-newaz-and-others-1-lnj-2012-436" rel="bookmark">Md. Monsur Hossain Vs. Md. Shah Newaz and others, 1 LNJ (2012) 436</a>
+			</h2>
+		</div>
+		<!--blog_entry-header-inner-->
+	</header>
+	<div class="entry-content">
+		<div class="entry-content">
+			<p>
+				<b>Case No:</b> Civil Revision No. 1304 of 1999 
+			</p>
+			<p>
+				<b>Judge:</b>  Shahidul Islam,
+			</p>
+			<p>
+				<b>Court:</b> High Court Division,,
+			</p>
+			<p>
+				<b>Advocate:</b> Mr. Abdul Wadud Bhuiyan,Mr. Syed Mokaddas Ali,,
+			</p>
+			<b>Citation:</b>  1 LNJ (2012) 436
+                  
+		</div>
+		<p>
+			<a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-monsur-hossain-vs-md-shah-newaz-and-others-1-lnj-2012-436">Read More</a>
+		</p>
+	</div>
+</article>
+<article class="blog_entry">
+	<header class="blog_entry-header">
+		<div class="blog_entry-header-inner">
+			<h2 class="blog_entry-title">
+				<a href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-mahfuzur-rahman-and-another-vs-government-of-bangladesh-and-others-1-lnj-2012-444" rel="bookmark">Md. Mahfuzur Rahman and another Vs. Government of Bangladesh and others, 1 LNJ (2012) 444</a>
+			</h2>
+		</div>
+		<!--blog_entry-header-inner-->
+	</header>
+	<div class="entry-content">
+		<div class="entry-content">
+			<p>
+				<b>Case No:</b> Writ Petition No. 5537 of 2009 
+			</p>
+			<p>
+				<b>Judge:</b>  Moyeenul Islam Chowdhury,
+			</p>
+			<p>
+				<b>Court:</b> High Court Division,,
+			</p>
+			<p>
+				<b>Advocate:</b> Md. Ashadullah,Mr. M. K. Rahman,Mr. Karunamoy Chakma,,
+			</p>
+			<b>Citation:</b>  1 LNJ (2012) 444
+                  
+		</div>
+		<p>
+			<a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/md-mahfuzur-rahman-and-another-vs-government-of-bangladesh-and-others-1-lnj-2012-444">Read More</a>
+		</p>
+	</div>
+</article>

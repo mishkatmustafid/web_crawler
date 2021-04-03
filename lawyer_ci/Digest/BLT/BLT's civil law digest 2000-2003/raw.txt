@@ -1,0 +1,2010 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!-- Basic page needs -->
+<meta charset="utf-8">
+<!--[if IE]>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<![endif]-->
+<meta name="google-site-verification" content="JgAwVm96UZhl_mIGS1-XN1zBkUZtySS49y7bDYb8hLI" />
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>The Lawyers and Jurists</title>
+
+<!-- Mobile specific metas  -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Favicon  -->
+<link rel="shortcut icon" href="https://www.lawyersnjurists.com/wp-content/uploads/favicon.jpg">
+
+<!-- CSS Style -->
+<link rel="stylesheet" href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/css/bootstrap-datetimepicker.css">
+<link rel="stylesheet" href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/css/img.css"> 
+    <link rel="stylesheet" href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/style.css">
+    <link rel="stylesheet" href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/css/style.css">
+    <link rel="stylesheet" href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/css/responsive.css">
+<link href="https://www.lawyersnjurists.com/lawyer_ci/asset/css/jquery-ui.css" rel="stylesheet">
+<link href="https://www.lawyersnjurists.com/lawyer_ci/asset/css/daterangepicker.css" rel="stylesheet">
+<!-- jquery js --> 
+<script type="text/javascript" src="https://www.lawyersnjurists.com/lawyer_ci/frontend/js/jquery.min.js"></script> 
+
+<link rel='stylesheet' id='megamenu-css'  href='https://www.lawyersnjurists.com/wp-content/uploads/maxmegamenu/style.css?ver=392b02' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.lawyersnjurists.com/wp-includes/css/dashicons.min.css?ver=4.8.2' type='text/css' media='all' />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NKLG795');</script>
+<!-- End Google Tag Manager -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-109305892-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</head>
+
+<body class="cms-index-index cms-home-page">
+
+<div id="page"> 
+  <!--[if lt IE 8]>
+<![endif]--> 
+  
+  <!-- Header -->
+  <header>
+    <div class="header-container new_header">
+      
+      <div class="container">
+        <div class="row">
+          
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+            <!-- Header Logo -->
+            <div class="logo"> 
+            	<a href="https://www.lawyersnjurists.com">
+                    <img src="https://www.lawyersnjurists.com/wp-content/uploads/main_logo.png" alt="" />
+                </a>
+            </div>
+            <!-- End Header Logo --> 
+          </div>
+          <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+          	<div class="header-info">
+            	<ul>
+            	  <li><strong><i class="fa fa-headphones"></i> +8801712620018</strong><br>Call Us For Free Consultation</li>
+                  <li><a href="https://www.facebook.com/Lawyersandjurists" target="_blank"><i class="fa fa-facebook"></i><br>Facebook</a></li>
+                  <li><a href="https://twitter.com/lawforpeople" target="_blank"><i class="fa fa-twitter"></i><br>Twitter</a></li>
+                  <li><a href="https://www.linkedin.com/in/tjurists" target="_blank"><i class="fa fa-linkedin"></i><br>Linkedin</a></li>
+                  <li><a href="https://www.youtube.com/channel/UCmyM8Zeiy-B4APJV9pXm5bA" target="_blank"><i class="fa fa-youtube"></i><br>Youtube</a></li>
+                  <li><a id="src-btn" href="#"><i class="fa fa-search"></i><br>Search</a></li>
+            	</ul>
+            </div>
+          </div>
+          
+          <!--<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+            <div class="search-box case-btn" style="margin-top:25px;">
+              <a href="https://www.lawyersnjurists.com/lawyer_ci/case_search" class="btn btn-warning pull-right">Case Search</a>
+            </div>
+          </div>-->
+        </div>
+      </div>
+    </div>
+    <div class="search-box new-search-box" style="width:100%;">
+    	<button id="src-hide" class="btn pull-right" style="margin-right:10px; margin-top:10px;"><i class="fa fa-remove"></i></button>
+    	<div class="container">
+              <script>
+				  (function() {
+					var cx = '009037759246690080400:f4bvrxkxc9y';
+					var gcse = document.createElement('script');
+					gcse.type = 'text/javascript';
+					gcse.async = true;
+					gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+					var s = document.getElementsByTagName('script')[0];
+					s.parentNode.insertBefore(gcse, s);
+				  })();
+				</script>
+				<gcse:search></gcse:search>
+            </div>
+        
+    </div>
+  </header>
+  <!-- end header --> 
+  
+  <!-- Navigation -->
+  
+  <nav>
+    <div class="container">
+        <div class="row">
+          <div class="nav-inner">
+            <div class="col-md-10 col-sm-10 col-lg-10">
+            <div id="mega-menu-wrap-primary-menu" class="mega-menu-wrap"><div class="mega-menu-toggle" tabindex="0"><div class='mega-toggle-block mega-menu-toggle-block mega-toggle-block-right mega-toggle-block-1' id='mega-toggle-block-1'></div></div><ul id="mega-menu-primary-menu" class="mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="600" data-second-click="close" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="600" data-unbind="true"><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-home mega-align-bottom-left mega-menu-flyout mega-menu-item-11343' id='mega-menu-item-11343'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/" tabindex="0">Home</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-59' id='mega-menu-item-59'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/about-us/" tabindex="0">About us</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-page_item mega-page-item-69 mega-current_page_item mega-align-bottom-left mega-menu-flyout mega-menu-item-73' id='mega-menu-item-73'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/our-lawyers/" tabindex="0">Our Lawyers</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-13' id='mega-menu-item-13'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/our-services/" tabindex="0">Our Services</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-35' id='mega-menu-item-35'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/our-clients/" tabindex="0">Our Clients</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-81' id='mega-menu-item-81'><a class="mega-menu-link" href="#" aria-haspopup="true" tabindex="0">Career</a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-83' id='mega-menu-item-83'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/internship/">Internship</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-82' id='mega-menu-item-82'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/inhouse-lawyer/">Inhouse Lawyer</a></li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-11372' id='mega-menu-item-11372'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/gallery/" tabindex="0">Gallery</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-76' id='mega-menu-item-76'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/contact-us/" tabindex="0">Contact us</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-11378' id='mega-menu-item-11378'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/webmail" tabindex="0">Webmail</a></li></ul></div>            </div>
+            <div class="col-md-2 col-sm-2 col-lg-2">
+                <a href="https://www.lawyersnjurists.com/lawyer_ci/case_search" class="case-src-btn" style='font-size:11px;'>Advanced Search <i class="fa fa-angle-double-right"></i></a>
+            </div>
+          </div>
+        </div>
+    </div>
+  </nav>
+  <!-- end nav -->  
+<!-- JTV Home Slider -->
+  <div class="jtv-slideshow">
+    <div class="container">
+      <div class="row">
+        
+        
+        <div class="col-sm-12">
+        	<div class="jtv-title">
+                <h2>Digests</h2>
+                <p style="margin-bottom:10px;">Total Article Count 88</p>
+            </div>
+          	<div role="main" id="content">
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/acquisition-and-requisition-of-immovable-property-ordinance-1982-3">Acquisition and Requisition of Immovable Property Ordinance, 1982</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Acquisition and Requisition of Immovable Property </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Acquisition and Requisition of Immovable Property Ordinance, 1982</p>
+                    <p><b>Relevant Section:</b>  Section-3</p>
+                    <p><b>Citation:</b>   8 BLT(HCD)-42</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/acquisition-and-requisition-of-immovable-property-ordinance-1982-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/acquisition-act-1975">Acquisition Act, 1975</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Acquisition </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Acquisition Act, 1975</p>
+                    <p><b>Relevant Section:</b>  Section -3</p>
+                    <p><b>Citation:</b>  UBLT(AD)-103</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/acquisition-act-1975">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/acquisition-and-requisition-of-immovable-property-amendments-act-1994">Acquisition and Requisition of Immovable Property (Amendments) Act, 1994</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Acquisition and Requisition of Immovable Property (Amendments) </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Acquisition and Requisition of Immovable Property (Amendments) Act, 1994</p>
+                    <p><b>Relevant Section:</b>  Section-5</p>
+                    <p><b>Citation:</b>  11 BLT (HCD)-470</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/acquisition-and-requisition-of-immovable-property-amendments-act-1994">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/acquisition-and-requisition-of-immovable-property-ordinance-1982-4">Acquisition and Requisition of Immovable Property Ordinance, 1982</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Acquisition and Requisition of Immovable Property </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Acquisition and Requisition of Immovable Property Ordinance, 1982</p>
+                    <p><b>Relevant Section:</b>  Section-12, Section-28</p>
+                    <p><b>Citation:</b>  8 BLT (AD)-72,  8 BLT(HCD)-70</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/acquisition-and-requisition-of-immovable-property-ordinance-1982-4">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/abandoned-building-supplementary-provisions-ordinance-1985">Abandoned Building (Supplementary Provisions) Ordinance, 1985</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Abandoned Building (Supplementary Provisions) </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Abandoned Building (Supplementary Provisions) Ordinance, 1985</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  9 BLT (AD)-98, 10 BLT(HCD)-26</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/abandoned-building-supplementary-provisions-ordinance-1985">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/admiralty-court-act-1861-2">Admiralty Court Act, 1861</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Admiralty</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Admiralty Court Act, 1861</p>
+                    <p><b>Relevant Section:</b>  Section-5, Section-10, </p>
+                    <p><b>Citation:</b>  11 BLT (HCD)-278, 8 BLT (HCD)-267, 8 BLT (HCD)-374, 8 BLT(HCD)-187.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/admiralty-court-act-1861-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/administrative-tribunals-act-1980-2">Administrative Tribunals Act, 1980</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Administrative Tribunals </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Administrative Tribunals Act, 1980</p>
+                    <p><b>Relevant Section:</b>  Section-14</p>
+                    <p><b>Citation:</b>  8BLT (AD)-43, 9BLT(AD)-36 ,  9 BLT(AD)-92</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/administrative-tribunals-act-1980-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/artha-rin-adalat-ain-1990-2">Artha Rin Adalat Ain, 1990</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Artha Rin Adalat</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Artha Rin Adalat Ain, 1990</p>
+                    <p><b>Relevant Section:</b>  Section-7, </p>
+                    <p><b>Citation:</b>  10 BLT (HCD)-266, 9 BLT(HCD)-220, 9BLT (HCD)-249</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/artha-rin-adalat-ain-1990-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/--arbitration-act-1940">  Arbitration Act, 1940</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>   Arbitration </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>   Arbitration Act, 1940</p>
+                    <p><b>Relevant Section:</b>  Section-7, Section-8, Section-10, Section-29, Section-32, Section-34</p>
+                    <p><b>Citation:</b>  10BL T (HCD)-223, 9BLT (HCD)-269, 10 BLT (HCD)-223, 9BLT(HCD)-379,  11 BLT(AD)-215, 9BLT (HCD)-21,  9BLT (HCD)-206,  8 BLT(HCD)-295</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/--arbitration-act-1940">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-merchant-shipping-ordinance-1983-3">Bangladesh Merchant Shipping Ordinance, 1983</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Bangladesh Merchant Shipping </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Bangladesh Merchant Shipping Ordinance, 1983</p>
+                    <p><b>Relevant Section:</b>  Sections-477 and 479</p>
+                    <p><b>Citation:</b>  8 BLT(HCD)-187</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-merchant-shipping-ordinance-1983-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-house-building-finance-corporation-order-1973-3">Bangladesh House Building Finance Corporation Order, 1973</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Bangladesh House Building Finance Corporation </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Bangladesh House Building Finance Corporation Order, 1973</p>
+                    <p><b>Relevant Section:</b>  Article-27</p>
+                    <p><b>Citation:</b>  9 BLT (HCD)-289</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-house-building-finance-corporation-order-1973-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-export-processing-zone-authority-1990-2">Bangladesh Export processing Zone Authority, 1990</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-export-processing-zone-authority-1990-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-bank-nationalization-order-1972-2">Bangladesh Bank (Nationalization) Order, 1972</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Bangladesh Bank (Nationalization) </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Bangladesh Bank (Nationalization) Order, 1972</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  11 BLT(AD)-215</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-bank-nationalization-order-1972-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-industrial-enterprise-nationalization-order-1972-2">Bangladesh Industrial Enterprise (Nationalization) Order, 1972</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Bangladesh Industrial Enterprise</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Bangladesh Industrial Enterprise (Nationalization) Order, 1972</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  11 BLT (AD)-186</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-industrial-enterprise-nationalization-order-1972-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/banking-companies-act-1991-3">Banking Companies Act, 1991</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Banking Companies </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Banking Companies Act, 1991</p>
+                    <p><b>Relevant Section:</b>  Section-5, Section-17, Section-46</p>
+                    <p><b>Citation:</b>  10 BLT (HCD)-482, 9BLT (HCD)-183, 8BLT(AD)-13, 8 BLT(AD)-145,10 BLT (AD)-36,  9BLT(HCD)-183, 9 BLT (AD)-230, 8BLT (AD)-146,8 BLT(AD)-280 </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/banking-companies-act-1991-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bankers-book-evidence-act-1891-2">Bankers Book Evidence Act, 1891</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Bankers Book Evidence </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Bankers Book Evidence Act, 1891</p>
+                    <p><b>Relevant Section:</b>  Section-6</p>
+                    <p><b>Citation:</b>  11 BLT (HCD)-246</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bankers-book-evidence-act-1891-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-steel-and-engineering-corporation-employees-service-regulations-1989-3-2">Bangladesh Steel and Engineering Corporation Employees Service Regulations, 1989</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Bangladesh Steel and Engineering Corporation Employees Service </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Bangladesh Steel and Engineering Corporation Employees Service Regulations, 1989</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  9 BLT(AD)-39, 9 BLT (AD)-224.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-steel-and-engineering-corporation-employees-service-regulations-1989-3-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-civil-service-seniority-rules-1983-2">Bangladesh Civil Service Seniority Rules, 1983</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Bangladesh Civil Service Seniority </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Bangladesh Civil Service Seniority Rules, 1983</p>
+                    <p><b>Relevant Section:</b>  Section-3, </p>
+                    <p><b>Citation:</b>  9BI.T (AD)-226,  9 BLT (AD)-2</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-civil-service-seniority-rules-1983-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-service-rules-3">Bangladesh Service Rules</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-service-rules-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-biman-corporation-employees-service-regulations-1979-3">Bangladesh Biman Corporation Employees (Service) Regulations, 1979</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Bangladesh Biman Corporation Employees (Service) </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Bangladesh Biman Corporation Employees (Service) Regulations, 1979</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  11BLT (AD)-64, 11BLT (AD)-30</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-biman-corporation-employees-service-regulations-1979-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bankruptcy-act-1997-2">Bankruptcy Act, 1997</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Bankruptcy </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Bankruptcy Act, 1997</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  8 BLT (AD)-175</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bankruptcy-act-1997-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bengal-regulation-ll-of-1937">Bengal Regulation-ll of 1937</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Bengal Regulation</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Bengal Regulation-ll of 1937</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  8BLT (AD)-202</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bengal-regulation-ll-of-1937">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bengal-tenancy-act-1885-3">Bengal Tenancy Act, 1885</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Bengal Tenancy </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Bengal Tenancy Act, 1885</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  10 BLT(AD)-137</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bengal-tenancy-act-1885-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/building-construction-act-1952-0">Building Construction Act, 1952</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Building Construction </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Building Construction Act, 1952</p>
+                    <p><b>Relevant Section:</b>  Section -3, </p>
+                    <p><b>Citation:</b>  11 BLT (AD)-144, 8 BLT (HCD)-277, 9 BLT (HCD)-326</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/building-construction-act-1952-0">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-house-building-finance-corporation-order-1973-4">Bangladesh House Building Finance Corporation Order, 1973</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Bangladesh House Building Finance </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Bangladesh House Building Finance Corporation Order, 1973</p>
+                    <p><b>Relevant Section:</b>  Section-5 and 7, Section-9</p>
+                    <p><b>Citation:</b>  9 BLT (HCD)-289, 8 BLT (HCD)-277</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-house-building-finance-corporation-order-1973-4">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/building-construction-rules-1986">Building Construction Rules, 1986</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Building Construction </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Building Construction Rules, 1986</p>
+                    <p><b>Relevant Section:</b>  Rule-26</p>
+                    <p><b>Citation:</b>  8 BLT (HCD)-277</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/building-construction-rules-1986">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/board-of-investment-act-1980-2">Board of Investment Act, 1980</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Board of Investment</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Board of Investment Act, 1980</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  10 BLT (AD)-108</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/board-of-investment-act-1980-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/board-of-intermediate-and-secondary-education-jessore-2">Board of Intermediate and Secondary Education, Jessore</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Board of Intermediate and Secondary Education</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Board of Intermediate and Secondary Education, Jessore</p>
+                    <p><b>Relevant Section:</b>  Rule-9</p>
+                    <p><b>Citation:</b>  11 BLT AD)-137</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/board-of-intermediate-and-secondary-education-jessore-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/board-of-intermediate-and-secondary-education-comilla-managing-committee-of-the-recognizable-non-government-schools-regulations-1997-2">Board of Intermediate and Secondary Education Comilla (Managing Committee of the recognizable Non-Government Schools) Regulations, 1997</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/board-of-intermediate-and-secondary-education-comilla-managing-committee-of-the-recognizable-non-government-schools-regulations-1997-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-export-processing-zone-authority-1990-3">Bangladesh Export Processing Zone Authority, 1990</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Bangladesh Export Processing Zone </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Bangladesh Export Processing Zone Authority, 1990</p>
+                    <p><b>Relevant Section:</b>  Rule 5</p>
+                    <p><b>Citation:</b>  10 BLT (HCD)-366</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/bangladesh-export-processing-zone-authority-1990-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/companies-act-1994-3">Companies Act, 1994</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/companies-act-1994-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/companies-act-1913-3">Companies Act, 1913</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Companies </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Companies Act, 1913</p>
+                    <p><b>Relevant Section:</b>  Section-95</p>
+                    <p><b>Citation:</b>   10 BLT(HCD)-130</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/companies-act-1913-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/customs-act-1969-8">Customs Act, 1969</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/customs-act-1969-8">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/contempt-of-courts-act-1926-4">Contempt of Courts Act, 1926</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Contempt of Courts </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Contempt of Courts Act, 1926</p>
+                    <p><b>Relevant Section:</b>  Section-2, Section-3, </p>
+                    <p><b>Citation:</b>  8 BLT(AD)-6, 8 BLT (AD)-79,  8 BLT(HCD)-410,  l0BLT (HCD)-36, 10 BLT (HCD)-268, 11 BLT (HCD)-511, 11 BLT (HCD)-168</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/contempt-of-courts-act-1926-4">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/the-contract-act-1872-2-2">The Contract Act, 1872</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  The Contract </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  The Contract Act, 1872</p>
+                    <p><b>Relevant Section:</b>  Section-46, Section-133</p>
+                    <p><b>Citation:</b>  10 BLT (HCD)-223, 10 BLT (AD)-95, 8 BLT (HCD)-14</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/the-contract-act-1872-2-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/code-of-civil-procedure-1908-section-1---153">Code of Civil Procedure, 1908 [Section 1 - 153]</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/code-of-civil-procedure-1908-section-1---153">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/code-of-civil-procedure-1908-order-i---xlvii">Code of Civil Procedure, 1908 [Order I - XLVII]</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/code-of-civil-procedure-1908-order-i---xlvii">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/constitution-of-bangladesh-1972-6">Constitution of Bangladesh, 1972</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/constitution-of-bangladesh-1972-6">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/divorce-act-1869-0">Divorce Act, 1869</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Divorce</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Divorce Act, 1869</p>
+                    <p><b>Relevant Section:</b>  Section-10, </p>
+                    <p><b>Citation:</b>  8 BLT(HCD)-337.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/divorce-act-1869-0">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/deterioration-of-stock-policy-dos-policy-0">Deterioration of Stock Policy (DOS Policy)</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Deterioration of Stock Policy</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Deterioration of Stock Policy (DOS Policy)</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  10 BLT (AD) 81.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/deterioration-of-stock-policy-dos-policy-0">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/evidence-act-1872-7">Evidence Act, 1872</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/evidence-act-1872-7">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/emergency-requisition-of-property-act-1948-4-2">(Emergency) Requisition of Property Act, 1948</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  (Emergency) Requisition of Property</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  (Emergency) Requisition of Property Act, 1948</p>
+                    <p><b>Relevant Section:</b>  Section-3</p>
+                    <p><b>Citation:</b>  8 BLT (HCD)-333</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/emergency-requisition-of-property-act-1948-4-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/the-employment-of-labour-standing-orders-act-1965-2-2">The Employment of Labour (Standing orders) Act, 1965</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  The Employment of Labour </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  The Employment of Labour (Standing orders) Act, 1965</p>
+                    <p><b>Relevant Section:</b>  Section-4, </p>
+                    <p><b>Citation:</b>  11BLT(HCD)-380,  9BLT(AD)-202.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/the-employment-of-labour-standing-orders-act-1965-2-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/easement-act-1882-3-2">Easement Act, 1882</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Easement </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Easement Act, 1882</p>
+                    <p><b>Relevant Section:</b>  Section-44 </p>
+                    <p><b>Citation:</b>  10 BLT(HCD)-391</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/easement-act-1882-3-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/family-court-ordinance-1985">Family Court Ordinance, 1985</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Family Court </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Family Court Ordinance, 1985</p>
+                    <p><b>Relevant Section:</b>  Section-5, </p>
+                    <p><b>Citation:</b>  10BLT (HCD)-185, 10 BLT(HCD)-307,  8 BLT (HCD)-108</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/family-court-ordinance-1985">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/financial-institution-act-1993-1">Financial Institution Act, 1993</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Financial Institution </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Financial Institution Act, 1993</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  8 BLT (AD)-20,  8BLT (AD)-117, </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/financial-institution-act-1993-1">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/fundamental-rules">Fundamental Rules</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Fundamental Rules</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Fundamental Rules</p>
+                    <p><b>Relevant Section:</b>  Rule-18</p>
+                    <p><b>Citation:</b>  8 BLT(AD)-40.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/fundamental-rules">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/the-guardian-and-wards-act-1890-2">The Guardian and Wards Act, 1890</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>   Guardian and Wards </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  The Guardian and Wards Act, 1890</p>
+                    <p><b>Relevant Section:</b>  Section-17 </p>
+                    <p><b>Citation:</b>  10 BLT (HCD)-327</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/the-guardian-and-wards-act-1890-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/general-clauses-act-1897-5">General Clauses Act, 1897</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  General Clauses</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  General Clauses Act, 1897</p>
+                    <p><b>Relevant Section:</b>  Section 21</p>
+                    <p><b>Citation:</b>  11 BLT (AD)-30</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/general-clauses-act-1897-5">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/government-servants-discipline-and-appeal-rules-1985">Government Servants (Discipline and Appeal) Rules, 1985</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/government-servants-discipline-and-appeal-rules-1985">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/general-observation">General Observation</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  General Observation</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  General Observation</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  11 BLT(HCD)-474, 11 BLT(HCD)-213,  11BLT(HCD)-496, 9 BLT (HCD)-194</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/general-observation">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/high-court-civil-rules-and-orders-0">High Court Civil Rules and Orders</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  High Court </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  High Court Civil Rules and Orders</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>   8 BLT(HCD)-36</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/high-court-civil-rules-and-orders-0">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/hindu-law-on-religious-and-charitable-trust--hindu-personal-law">Hindu Law on Religious and Charitable Trust & Hindu Personal Law</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Hindu Law on Religious and Charitable Trust & Hindu Personal </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Hindu Law on Religious and Charitable Trust & Hindu Personal Law</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  9BLT(AD)-211, 10BLT (AD)-150, 7BLT(HCD)-131, 9BLT (HCD)-290, </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/hindu-law-on-religious-and-charitable-trust--hindu-personal-law">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/the-income-tax-act-1922">The Income Tax Act, 1922</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  The Income Tax </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  The Income Tax Act, 1922</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  9BLT(HCD)-16, 9BLT (HCD)-116, 9BLT (HCD)-116, 11 BLT (AD)-l00</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/the-income-tax-act-1922">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/the-insurance-act-1938">The Insurance Act, 1938</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>   Insurance </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  The Insurance Act, 1938</p>
+                    <p><b>Relevant Section:</b>  Section-46, </p>
+                    <p><b>Citation:</b>  8BLT(HCD)-311, 8BLT(HCD)-361, 8BLT(HCD)-311,  8BLT(HCD)-361</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/the-insurance-act-1938">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/the-inland-shipping-ordinance-1976-3">The Inland Shipping Ordinance, 1976</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>   Inland Shipping </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  The Inland Shipping Ordinance, 1976</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  11 BLT (AD)-36</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/the-inland-shipping-ordinance-1976-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/local-government-union-parishads-ordinance-1983-1">Local Government (Union Parishads) Ordinance, 1983</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Local Government (Union Parishads)</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Local Government (Union Parishads) Ordinance, 1983</p>
+                    <p><b>Relevant Section:</b>  Section-20, </p>
+                    <p><b>Citation:</b>  8 BLT (AD)-65, 8BLT (AD)-157,  9BLT(AD)46, 9BLT(AD)-233, 9 BLT(HCD)-235</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/local-government-union-parishads-ordinance-1983-1">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/limitation-act-1908-6">Limitation Act, 1908</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/limitation-act-1908-6">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/mohammedan-law---a-right-of-pre-emption">Mohammedan Law - A right of pre-emption</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Mohammedan Law - A right of pre-emption</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Mohammedan Law - A right of pre-emption</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  11 BLT(HCD)-70</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/mohammedan-law---a-right-of-pre-emption">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/muslim-family-laws-ordinance-1961-3">Muslim Family Laws Ordinance, 1961</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Muslim Family Laws </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Muslim Family Laws Ordinance, 1961</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  8 BLT (AD)-30, 8BLT(HCD)-328</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/muslim-family-laws-ordinance-1961-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/muslim-marriages-and-divorces-registration-act-1974-5-2">Muslim Marriages and Divorces (Registration) Act, 1974</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Muslim Marriages and Divorces (Registration) </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Muslim Marriages and Divorces (Registration) Act, 1974</p>
+                    <p><b>Relevant Section:</b>  Section-4, </p>
+                    <p><b>Citation:</b>  8BLT(AD)-133,  8BLT (HCD)-340, 11 BLT (HCD)-336</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/muslim-marriages-and-divorces-registration-act-1974-5-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/non-agricultural-tenancy-act-1949">Non-Agricultural Tenancy Act, 1949</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Non-Agricultural Tenancy </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Non-Agricultural Tenancy Act, 1949</p>
+                    <p><b>Relevant Section:</b>  Section-24, </p>
+                    <p><b>Citation:</b>  11BLT (AD)-87, 10 BLT (HCD)-229, 9 BLT(HCD)-135, 11BLT(HCD)-189, 8BLT (HCD)-144, 8BLT (AD)-165, 10 BLT (HCD)-318</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/non-agricultural-tenancy-act-1949">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/negotiable-instrument-act-1881-1">Negotiable Instrument Act, 1881</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Negotiable Instrument</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Negotiable Instrument Act, 1881</p>
+                    <p><b>Relevant Section:</b>  Section-138</p>
+                    <p><b>Citation:</b>  10 BLT (HCD)-415, 10 BLT (HCD)-459</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/negotiable-instrument-act-1881-1">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/newspaper-employees-conditions-of-service-act-1974-3">Newspaper Employees (Conditions of Service) Act, 1974</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/newspaper-employees-conditions-of-service-act-1974-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/patent-and-designs-act-1911">Patent and Designs Act, 1911</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Patent and Designs </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Patent and Designs Act, 1911</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  9 BLT (HCD)-31, 9BLT(HCD)-132, 9BLT(HCD)-170</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/patent-and-designs-act-1911">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/partition-act-1893-3">Partition Act, 1893</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Partition </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Partition Act, 1893</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  11 BLT (HCD)-444</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/partition-act-1893-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/pourashava-ordianance-1977">Pourashava Ordianance, 1977</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Pourashava </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Pourashava Ordianance, 1977</p>
+                    <p><b>Relevant Section:</b>  Section-21</p>
+                    <p><b>Citation:</b>   8 BLT(AD)-284</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/pourashava-ordianance-1977">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/private-university-act-1992-3">Private University Act, 1992</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Private University </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Private University Act, 1992</p>
+                    <p><b>Relevant Section:</b>  Section-6</p>
+                    <p><b>Citation:</b>  8BLT(AD)-198</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/private-university-act-1992-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/public-servants-retirement-act-1974-3-2">Public Servants (Retirement) Act, 1974</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Public Servants (Retirement) </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Public Servants (Retirement) Act, 1974</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  9BLT(AD)-235, 10 BLT (AD)-22</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/public-servants-retirement-act-1974-3-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/payment-of-wages-act-1936-4">Payment of Wages Act, 1936</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Payment of Wages</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Payment of Wages Act, 1936</p>
+                    <p><b>Relevant Section:</b>  Section-15, 20, 21</p>
+                    <p><b>Citation:</b>  10 BLT (HCD)-202,  10 BLT (HCD)-202, 10 BLT (AD)-107</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/payment-of-wages-act-1936-4">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/po-no59-of-1972">P.O. No.59 of 1972</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  P.O. No.59 </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  P.O. No.59 of 1972</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  9 BLT (AD)-105</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/po-no59-of-1972">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/practice-and-procedure-5">Practice and Procedure</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Practice and Procedure</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Practice and Procedure</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  8BLT (AD)-1, 8 BLT (AD)-9, 8 BLT(AD)-55, 8BLT (AD)-82, 8BLT(AD)-75, 8BLT(AD)-108,  8BLT (AD)-107,  8BLT (AD)-181,  8BLT(AD)-204, 8 BLT(AD)-213, 8BLT(AD)-280,  8BLT(HCD)-94, 8BLT (HCD)-159, 8  BLT (HCD)-187, 8BLT (HCD)-219, 8 BLT (HCD)-311, 8 BLT(HCD)-331</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/practice-and-procedure-5">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/representation-of-the-peoples-order-1972-2">Representation of the People's Order, 1972</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/representation-of-the-peoples-order-1972-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/rajshahi-krishi-unnayan-bank-karmachari-chakuri-probidhanmala-1988">Rajshahi Krishi Unnayan Bank Karmachari Chakuri Probidhanmala, 1988</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/rajshahi-krishi-unnayan-bank-karmachari-chakuri-probidhanmala-1988">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/supreme-court-of-bangladesh-high-court-division-employees-discipline-and-appeal-rules-1983">Supreme Court of Bangladesh (High Court Division) Employees (Discipline and Appeal) Rules, 1983</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Supreme Court of Bangladesh </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Supreme Court of Bangladesh (High Court Division) Employees (Discipline and Appeal) Rules, 1983</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  I0BLT(AD)-50, 8 BLT (HCD) 146</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/supreme-court-of-bangladesh-high-court-division-employees-discipline-and-appeal-rules-1983">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/state-acquisition-and-tenancy-act-1950-1">State Acquisition and Tenancy Act, 1950</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/state-acquisition-and-tenancy-act-1950-1">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/succession-act-1925-3">Succession Act, 1925</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/succession-act-1925-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/salish-ain-2001-0">Salish Ain, 2001</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Salish </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Salish Ain, 2001</p>
+                    <p><b>Relevant Section:</b>  Section-20 </p>
+                    <p><b>Citation:</b>  10 BLT (HCD)-198</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/salish-ain-2001-0">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/trade-mark-act-1940--trade-marks-rules-1963">Trade Mark Act, 1940 & Trade Marks Rules, 1963</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/trade-mark-act-1940--trade-marks-rules-1963">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/town-improvement-act-1953-5">Town Improvement Act, 1953</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Town Improvement </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Town Improvement Act, 1953</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  (AD)-56</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/town-improvement-act-1953-5">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/transfer-of-property-act-1882-3">Transfer of property Act, 1882</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Transfer of property </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Transfer of property Act, 1882</p>
+                    <p><b>Relevant Section:</b>  Section-41, Section-52, Section 105 & 106, Section-107</p>
+                    <p><b>Citation:</b>  8 BLT (HCD)-238, 9BLT(HCD)-78, 9 BLT(HCD)-135, 10 BLT(AD)-32, 9BLT(AD)-77, 9BLT(HCD)-338, 10 BLT (AD)-59., 10 BLT (AD)-171, 10 BLT(HCD)-229.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/transfer-of-property-act-1882-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/union-parishad-election-rules-1983-2">Union Parishad Election Rules, 1983</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Union Parishad Election </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Union Parishad Election Rules, 1983</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>   8BLT(AD)-233</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/union-parishad-election-rules-1983-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/universal-declaration-of-human-rights-2">Universal Declaration of Human Rights</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/universal-declaration-of-human-rights-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/voluntary-social-welfare-agencies-registration-and-control-ordinance-1961-2-2">Voluntary Social Welfare Agencies (Registration and Control) Ordinance, 1961</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Voluntary Social Welfare Agencies (Registration and Control) </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Voluntary Social Welfare Agencies (Registration and Control) Ordinance, 1961</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  9BLT (AD)-143</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/voluntary-social-welfare-agencies-registration-and-control-ordinance-1961-2-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/value-added-tax-act-1991">Value added Tax Act, 1991</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Value </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Value added Tax Act, 1991</p>
+                    <p><b>Relevant Section:</b>  Section-3 </p>
+                    <p><b>Citation:</b>  8 BLT(AD)-85.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/value-added-tax-act-1991">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/whether---">Whether ... ... ...</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Whether ... ... ...</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Whether ... ... ...</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  .8BLT(AD)-121,  8 BLT(AD)-134, 8 BLT(AD)-156, 9BLT (HCD)-456, 8 BLT (HCD)-274</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/whether---">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/waqf-ordinance-1962-0">Waqf Ordinance, 1962</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Waqf </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Waqf Ordinance, 1962</p>
+                    <p><b>Relevant Section:</b>  Section-33, 56, 57</p>
+                    <p><b>Citation:</b>   10 BLT(HCD)-399</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/waqf-ordinance-1962-0">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/word-and-phrases-2">Word and Phrases</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Word and Phrases</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  Word and Phrases</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  10 BLT (HCD)-339, 10 BLT (HCD)-235, 8BLT(AD)-61, 8BLT (AD)-39, 8BLT(AD)-45,  8BLT (HCD)-108, 8BLT (HCD)-94, 8 BLT (HCD)-136,  8BLT (HCD)-171,  8BLT (HCD)-220,  8 BLT (HCD)-307, 9BLT(HCD)-221, 9BLT (HCD)-317, 9BLT(HCD)-323, 9BLT (HCD)-393, 9BLT(HCD)-433, </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/word-and-phrases-2">Read More</a> </p>
+                </div>
+              </article>
+                    
+              </div>
+            </div>
+            
+            
+        </div>
+        
+        
+        
+        
+        
+      </div>
+    </div>
+  </div>
+  
+<!-- Footer -->
+  <!-- Footer -->
+  <footer>
+    
+    <div class="footer-inner">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-9 col-lg-9 col-md-9">
+            <div class="footer-menu">
+              <div class="menu-footer-top-menu-container"><ul id="menu-footer-top-menu" class="menu"><li id="menu-item-11397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11397"><a href="https://www.lawyersnjurists.com/about-us/">About us</a></li>
+<li id="menu-item-11398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11398"><a href="https://www.lawyersnjurists.com/our-services/">Our Services</a></li>
+<li id="menu-item-11566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11566"><a href="https://www.lawyersnjurists.com/our-clients/">Our Clients</a></li>
+<li id="menu-item-11564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11564"><a href="https://www.lawyersnjurists.com/videos/">Videos</a></li>
+<li id="menu-item-11401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11401"><a href="https://www.lawyersnjurists.com/gallery/">Gallery</a></li>
+<li id="menu-item-11400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11400"><a href="https://www.lawyersnjurists.com/inhouse-lawyer/">Career</a></li>
+<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="https://www.lawyersnjurists.com/contact-us/">Contact us</a></li>
+<li id="menu-item-11563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11563"><a href="https://www.lawyersnjurists.com/disclaimer/">Disclaimer</a></li>
+</ul></div>                <div class="menu-footer-bottom-container"><ul id="menu-footer-bottom" class="menu"><li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="https://www.lawyersnjurists.com/find-books/">Find Books</a></li>
+<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="https://www.lawyersnjurists.com/conventions-treaties/">Conventions &#038; Treaties</a></li>
+<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="https://www.lawyersnjurists.com/legal-courses/">Legal Courses</a></li>
+<li id="menu-item-11467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11467"><a href="https://www.lawyersnjurists.com/setup-business-in-bangladesh/">Setup Business</a></li>
+<li id="menu-item-11402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11402"><a href="https://www.lawyersnjurists.com/lawyer_ci/case_search">Case Management</a></li>
+<li id="menu-item-11565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11565"><a href="https://www.lawyersnjurists.com/articles-and-reports/">Articles and Reports</a></li>
+</ul></div>                <p class="coppyrightnew">© 2017 All Rights Reserved. | Designed & Developed by <a href="http://sizramsolutions.com" target="_blank" rel="nofollow"><b>SIZRAM SOLUTIONS.</b></a></p>
+            </div>
+          </div>
+          <div class="col-sm-3 col-lg-3 col-md-3">
+            <div class="pay">
+              <img src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/bkash.png" alt="">
+              <img src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/dbbl.png" alt="">
+              <img src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/mastercard.png" alt="">
+              <img src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/visa.png" alt="">
+              <img src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/rocket.png" alt="">
+              <img src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/paypal.png" alt="">
+            </div>
+          </div>
+          
+          
+        </div>
+      </div>
+    </div>
+    
+
+  </footer>
+</div>
+
+<!-- End Footer --> 
+
+
+<!-- bootstrap js --> 
+<script type="text/javascript" src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/js/bootstrap.min.js"></script> 
+
+
+
+<!-- DateJS -->
+    <script src="https://www.lawyersnjurists.com/lawyer_ci/asset/js/date.js"></script>
+    
+    <script src="https://www.lawyersnjurists.com/lawyer_ci/asset/js/moment.min.js"></script>
+    <script src="https://www.lawyersnjurists.com/lawyer_ci/asset/js/daterangepicker.js"></script>
+    <script src="https://www.lawyersnjurists.com/lawyer_ci/asset/js/custom.min.js"></script>
+<!-- main js --> 
+<script type="text/javascript" src="https://www.lawyersnjurists.com/lawyer_ci/frontend/js/main.js"></script>
+
+<!-- main js --> 
+
+<script type="text/javascript" src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/js/main.js"></script> 
+
+
+<script type="text/javascript">
+
+
+$('#src-btn').click(function(event){
+  event.preventDefault();
+  $('.new-search-box').show();
+  });
+$('#src-hide').click(function(event){
+  event.preventDefault();
+  $('.new-search-box').hide();
+  });
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var megamenu = {"timeout":"300","interval":"100"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.lawyersnjurists.com/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.4'></script>
+<script type='text/javascript' src='https://www.lawyersnjurists.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+</body>
+
+</html>

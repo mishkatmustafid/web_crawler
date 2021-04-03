@@ -1,0 +1,1890 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!-- Basic page needs -->
+<meta charset="utf-8">
+<!--[if IE]>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<![endif]-->
+<meta name="google-site-verification" content="JgAwVm96UZhl_mIGS1-XN1zBkUZtySS49y7bDYb8hLI" />
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>The Lawyers and Jurists</title>
+
+<!-- Mobile specific metas  -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Favicon  -->
+<link rel="shortcut icon" href="https://www.lawyersnjurists.com/wp-content/uploads/favicon.jpg">
+
+<!-- CSS Style -->
+<link rel="stylesheet" href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/css/bootstrap-datetimepicker.css">
+<link rel="stylesheet" href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/css/img.css"> 
+    <link rel="stylesheet" href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/style.css">
+    <link rel="stylesheet" href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/css/style.css">
+    <link rel="stylesheet" href="https://www.lawyersnjurists.com/wp-content/themes/lawyers/css/responsive.css">
+<link href="https://www.lawyersnjurists.com/lawyer_ci/asset/css/jquery-ui.css" rel="stylesheet">
+<link href="https://www.lawyersnjurists.com/lawyer_ci/asset/css/daterangepicker.css" rel="stylesheet">
+<!-- jquery js --> 
+<script type="text/javascript" src="https://www.lawyersnjurists.com/lawyer_ci/frontend/js/jquery.min.js"></script> 
+
+<link rel='stylesheet' id='megamenu-css'  href='https://www.lawyersnjurists.com/wp-content/uploads/maxmegamenu/style.css?ver=392b02' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.lawyersnjurists.com/wp-includes/css/dashicons.min.css?ver=4.8.2' type='text/css' media='all' />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NKLG795');</script>
+<!-- End Google Tag Manager -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-109305892-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</head>
+
+<body class="cms-index-index cms-home-page">
+
+<div id="page"> 
+  <!--[if lt IE 8]>
+<![endif]--> 
+  
+  <!-- Header -->
+  <header>
+    <div class="header-container new_header">
+      
+      <div class="container">
+        <div class="row">
+          
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+            <!-- Header Logo -->
+            <div class="logo"> 
+            	<a href="https://www.lawyersnjurists.com">
+                    <img src="https://www.lawyersnjurists.com/wp-content/uploads/main_logo.png" alt="" />
+                </a>
+            </div>
+            <!-- End Header Logo --> 
+          </div>
+          <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+          	<div class="header-info">
+            	<ul>
+            	  <li><strong><i class="fa fa-headphones"></i> +8801712620018</strong><br>Call Us For Free Consultation</li>
+                  <li><a href="https://www.facebook.com/Lawyersandjurists" target="_blank"><i class="fa fa-facebook"></i><br>Facebook</a></li>
+                  <li><a href="https://twitter.com/lawforpeople" target="_blank"><i class="fa fa-twitter"></i><br>Twitter</a></li>
+                  <li><a href="https://www.linkedin.com/in/tjurists" target="_blank"><i class="fa fa-linkedin"></i><br>Linkedin</a></li>
+                  <li><a href="https://www.youtube.com/channel/UCmyM8Zeiy-B4APJV9pXm5bA" target="_blank"><i class="fa fa-youtube"></i><br>Youtube</a></li>
+                  <li><a id="src-btn" href="#"><i class="fa fa-search"></i><br>Search</a></li>
+            	</ul>
+            </div>
+          </div>
+          
+          <!--<div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+            <div class="search-box case-btn" style="margin-top:25px;">
+              <a href="https://www.lawyersnjurists.com/lawyer_ci/case_search" class="btn btn-warning pull-right">Case Search</a>
+            </div>
+          </div>-->
+        </div>
+      </div>
+    </div>
+    <div class="search-box new-search-box" style="width:100%;">
+    	<button id="src-hide" class="btn pull-right" style="margin-right:10px; margin-top:10px;"><i class="fa fa-remove"></i></button>
+    	<div class="container">
+              <script>
+				  (function() {
+					var cx = '009037759246690080400:f4bvrxkxc9y';
+					var gcse = document.createElement('script');
+					gcse.type = 'text/javascript';
+					gcse.async = true;
+					gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+					var s = document.getElementsByTagName('script')[0];
+					s.parentNode.insertBefore(gcse, s);
+				  })();
+				</script>
+				<gcse:search></gcse:search>
+            </div>
+        
+    </div>
+  </header>
+  <!-- end header --> 
+  
+  <!-- Navigation -->
+  
+  <nav>
+    <div class="container">
+        <div class="row">
+          <div class="nav-inner">
+            <div class="col-md-10 col-sm-10 col-lg-10">
+            <div id="mega-menu-wrap-primary-menu" class="mega-menu-wrap"><div class="mega-menu-toggle" tabindex="0"><div class='mega-toggle-block mega-menu-toggle-block mega-toggle-block-right mega-toggle-block-1' id='mega-toggle-block-1'></div></div><ul id="mega-menu-primary-menu" class="mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="600" data-second-click="close" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="600" data-unbind="true"><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-home mega-align-bottom-left mega-menu-flyout mega-menu-item-11343' id='mega-menu-item-11343'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/" tabindex="0">Home</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-59' id='mega-menu-item-59'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/about-us/" tabindex="0">About us</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-page_item mega-page-item-69 mega-current_page_item mega-align-bottom-left mega-menu-flyout mega-menu-item-73' id='mega-menu-item-73'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/our-lawyers/" tabindex="0">Our Lawyers</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-13' id='mega-menu-item-13'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/our-services/" tabindex="0">Our Services</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-35' id='mega-menu-item-35'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/our-clients/" tabindex="0">Our Clients</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-81' id='mega-menu-item-81'><a class="mega-menu-link" href="#" aria-haspopup="true" tabindex="0">Career</a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-83' id='mega-menu-item-83'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/internship/">Internship</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-82' id='mega-menu-item-82'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/inhouse-lawyer/">Inhouse Lawyer</a></li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-11372' id='mega-menu-item-11372'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/gallery/" tabindex="0">Gallery</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-76' id='mega-menu-item-76'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/contact-us/" tabindex="0">Contact us</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-11378' id='mega-menu-item-11378'><a class="mega-menu-link" href="https://www.lawyersnjurists.com/webmail" tabindex="0">Webmail</a></li></ul></div>            </div>
+            <div class="col-md-2 col-sm-2 col-lg-2">
+                <a href="https://www.lawyersnjurists.com/lawyer_ci/case_search" class="case-src-btn" style='font-size:11px;'>Advanced Search <i class="fa fa-angle-double-right"></i></a>
+            </div>
+          </div>
+        </div>
+    </div>
+  </nav>
+  <!-- end nav -->  
+<!-- JTV Home Slider -->
+  <div class="jtv-slideshow">
+    <div class="container">
+      <div class="row">
+        
+        
+        <div class="col-sm-12">
+        	<div class="jtv-title">
+                <h2>Digests</h2>
+                <p style="margin-bottom:10px;">Total Article Count 82</p>
+            </div>
+          	<div role="main" id="content">
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-24">ABATEMENT</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ABATEMENT</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  ABATEMENT</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  3 BLD (AD) 10, 10 BLD (HCD) 270,  6 BLD(AD)62.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-24">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/abduction-2">ABDUCTION</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ABDUCTION</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  ABDUCTION</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  3 BLD (HCD) 18, 3 BLD (HCD) 108. Ref. 19 DLR (SC) 259; 12 DLR (SC) 165, 12 BLD (HCD) 490</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/abduction-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/abetment">ABETMENT</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ABETMENT</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  ABETMENT</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  1 BLD (HCD) 377, 5 BLD (AD) 99 (101), 6 BLD (HCD) 402, 7 BLD (HCD) 11(13), 10 BLD (HCD) 179, 12 BLD (HCD) 429 (435), 11 BLD (HCD) 552</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/abetment">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">ABSCONDING — ABSCONDING ACCUSED</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ABSCONDING — ABSCONDING ACCUSED</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  ABSCONDING — ABSCONDING ACCUSED</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  1 BLD (HCD) 286, 4 BLD (AD) 193 Ref. PLD 1969 (SC) 89; SCMR (1970) (Vol. Ill) 351; PLD 1974 (SC) 65, 8 BLD (HCD) 251.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26">ACCOMPLICE</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ACCOMPLICE</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  ACCOMPLICE</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  11 BLD (HCD) 432 Ref. 21 DLR 684, 12 BLD (HCD) 495 (503) Ref. AIR 1948 (Lahore) 27; AIR 1954 (SC) 322; 37 DLR 278, 1 BLD (AD) 296, 12 BLD (HCD) 3 45</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26">ACQUITTAL</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ACQUITTAL</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  ACQUITTAL</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  6 BLD (HCD) 423</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26">ACQUITTAL-SUO MOTU</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ACQUITTAL-SUO MOTU</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  ACQUITTAL-SUO MOTU</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  1 BLD (HCD) 275, 2 BLD (AD) 98, 2 BLD (HCD) 121 Ref. AIR 1918 (Lahore) 53, 3 DLR (FC) 577, 3 BLD (HCD) 108 Ref. 28 DLR 253, 3 BLD (HCD) 288, 4 BLD (AD) 227Ref. 14 DLR 595; AIR 1942 Sind 52, AIR 1963 (Mysore) 77, 5 BLD (HCD) 218. Ref. 2 DLR 305; 28 DLR 25</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26">ADDITION OF PARTY IN A CRIMI­NAL CASE</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ADDITION OF PARTY IN A CRIMI­NAL CASE</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  ADDITION OF PARTY IN A CRIMI­NAL CASE</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  3 BLD (HCD) 199</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26">ADJOURNMENT COST</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ADJOURNMENT COST</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  ADJOURNMENT COST</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  1BLD (HCD) 443 ref. Cr. L.J. 304; 48 cwn 684; AIR 1962 (Cal) 98 & AIR 1932 (Bom) 470</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26">ADULTERY </a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ADULTERY </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  ADULTERY </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  5 BLD (HCD) 269 Ref. 28 DLR 389; 17 DLR (SC) 626, 7 BLD (AD) 100, I0 (BLD) (AD)216, Ref. 8 BLD (AD) 84; PLD 1984 (Karachi) 63; 1 BLD (AD) 91; 31 DLR (HCD) 184, 22 DLR (SC) 443; AIR 1979 (SC) 621; PLD 1977 (Lahore) 1327; PLD 1970 (SC) 373; AIR 1968 (SC) 7</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26-7">APPEAL</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  APPEAL</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  APPEAL</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  2 BLD (HCD) 93, 6 BLD (AD) 198 Ref. AIR 1935 (PC) 89; AIR 1960 (SC) 748; PLD 1967 (SC) 545, 7 BLD (HCD) 345  Ref. 3 BCR (HCD) 239; 22 DLR (SC) 263; 25 DLR (Dhaka) 330, 8 BLD (HCD) 503 Ref. PLD 1959 (SC) 119; 11 DLR (SC) 200, 2 BLD (HCD) 116. Ref. PLD 196</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26-7">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26">APOLOGY</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  APOLOGY</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  APOLOGY</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  6 BLD (AD) 210, Ref. PLD 1970 (SC) 350; AIR 1983 (SC) 1151; AIR 1984 (SC) 1374, 6 BLD (HCD) 301</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-26">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/approver-2">APPROVER</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  APPROVER</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  APPROVER</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  9 BLD (HCD) 485, Ref. AIR 1959 (SC)13; AIR 1925 (Lahore) 15; AIR 1920 (Lahore) 376; 1930 CWN 773; PLD  1969 (Lahore) 1071; AIR 1935 (Lahore) 799; AIR1937 (Lahore) 551; AIR 1939 (All) 43; AIR 1929 (Nagpur) 189; AIR 1929 (Oudh) 529, </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/approver-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/arms-act-1878-2-2">ARMS ACT, 1878</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ARMS  </p>
+                    <p><b>Case Year:</b>  1878</p>
+                    <p><b>Relevant Law:</b>  ARMS ACT (ACT XI OF 1878)</p>
+                    <p><b>Relevant Section:</b>  sECTION 18, 19A & (f),  19A & (f) and 27(a) , </p>
+                    <p><b>Citation:</b>  7 BLD (AD) 22, 7 BLD (HCD) 289, Ref. AIR 1954 (Cal) 157; AIR 1955 (Cal) 599; AIR 1956 (Cal) 96, AIR 1957 (Madras) 692; MR 1956 (Punjab) 33, 13 DLR (SC) 66, 8 BLD (AD) 114. Ref. AIR 1956 (Cal) 96; AIR 1954 (Raj) 264; PLD 1965 (SC) 90; 16 DLR (SC) 722, 8 B</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/arms-act-1878-2-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/audi-alteram-partem">AUDI ALTERAM PARTEM</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  AUDI ALTERAM PARTEM</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  AUDI ALTERAM PARTEM</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  11 (BLD) (HCD) 428. Ref. 40 DLR (AD) 170</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/audi-alteram-partem">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">ASSESSMENT OF EVIDENCE BY APPELLATE DIVISION</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ASSESSMENT OF EVIDENCE BY APPELLATE DIVISION</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  ASSESSMENT OF EVIDENCE BY APPELLATE DIVISION</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  1 (BID) (HCD) 401, 7 BLD (AD) 93, 11 BLD (AD))2, AIR 1979 (SC) 697, AIR 1976 (SC) 2488 (2489); AIR 1974 (SC) 2166; AIR 1972 (SC) 975; AIR 1971 (SC) 1554; AIR 1971 (SC) 1405 AIR 1971 (SC) 2156; (1971) 3 SCC 416; (1969) 1 SCC 48; AIR 1968 (SC) 1278; 19 DLR</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">AUTREFOIS ACQUIT AND AUTRE­FOIS CONVICT</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  AUTREFOIS ACQUIT AND AUTRE­FOIS CONVICT</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  AUTREFOIS ACQUIT AND AUTRE­FOIS CONVICT</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  12 BLD (HCD) 610</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">ASSESSMENT AND APRECIATION OF EVIDENCE</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ASSESSMENT AND APRECIATION OF EVIDENCE</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  ASSESSMENT AND APRECIATION OF EVIDENCE</p>
+                    <p><b>Relevant Section:</b>  8 BLD (AD) 154, </p>
+                    <p><b>Citation:</b>  9 BLD (AD) 13 Ref. 16 DLR(SC) 605, 9 BID (AD) 122, 9BLD (HCD) 474, 11BLD (AD) 2</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">AUTREFOIS ACQUIT</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  AUTREFOIS ACQUIT</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  AUTREFOIS ACQUIT</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>   1 BLD (AD) 415, 8 BLD (HCD) 64 Ref. 14 DLR (SC) 96; 36 DLR (AD) 58.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">ANTICIPATORY BAIL</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ANTICIPATORY BAIL</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  ANTICIPATORY BAIL</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  5 BLD (AD) 110, 12 BLD (HCD) 440, 12 BLD (HCD) 507Ref. 5 DLR (FC) 383; 19 DLR (SC) 39.</p>
+                    <p><b>Appellant:</b>   </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27-7">BAIL</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  BAIL</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  BAIL</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  1 BLD (HCD) 66, 2 BLD (AD) 182, 2 BLD (AD) 183, 5 BLD(AD) 217, 7 BLD (AD) 91, 7BLD (AD) 154, 8BLD(AD)21, 8 BLD (AD) 208, 9 BLD (AD)2, 9 BLD (AD) 3, 9 BLD (AD) 12, 9 BLD (HCD) 520. Ref. 1969 (Pak) Cr.L.J 422; PLD 1967 (Lahore) 1302; 20 DLR (WP) (Lahore) 7</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27-7">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">BENEFIT OF DOUBT  </a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  BENEFIT OF DOUBT  </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  BENEFIT OF DOUBT  </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  5 BLD (AD) 294 Ref. 5 DLR (FC) 64; PLD 1964 (SC) 422, 7 BLD (AD) 265), 10 BLD (AD) 251, 5 BLD (AD) 294 Ref. 5 DLR (FC) 64; PLD 1964 (SC) 422, 7 BLD (AD) 265, 10 BLD (AD) 251, 10 BLD (HCD) 179, </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">BURDEN OF PROOF</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  BURDEN OF PROOF</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  BURDEN OF PROOF</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  5 BLD (AD) 301 Ref. 11 DLR (SC) 38; 5 DLR (FC)107.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">BEST EVIDENCE</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  BEST EVIDENCE</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  BEST EVIDENCE</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  7 BLD (HCD) 413</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27-10">BIAS</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  BIAS</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  BIAS</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  2 BLD (AD) 39, 3 BLD (AD) 251 Ref. 48 (AC) 187</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-27-10">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-1-58">BURDEN OF PROOF</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  BURDEN OF PROOF</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  BURDEN OF PROOF</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  6 BLD (AD) 174, 7BLD (AD) 1.Ref. Safdar Ali Vs. Crown 5 DLR (FC) 107, 9 BLD (AD) 110, 9 BLD (HCD)502, 11 BLD (HCD) 423, 12 BLD (HCD) 429</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-1-58">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/case-and-counter-case-and-simultaneous-trial">CASE AND COUNTER CASE AND SIMULTANEOUS TRIAL</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CASE AND COUNTER CASE AND SIMULTANEOUS TRIAL</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CASE AND COUNTER CASE AND SIMULTANEOUS TRIAL</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  3 BLD (HCD) 156, 6 BLD (AD)3 Ref. 7 DLR 395, 13 DLR 414, 18 DLR (SC) 474,21 DLR 958, 6 BLD (AD) 216, 8 BLD (AD) 221, 12 BLD (AD) 59. Ref. 7 DLR 395; 13 DLR 414; 1971 PLD (SC) 713</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/case-and-counter-case-and-simultaneous-trial">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/changes-in-procedural-law">CHANGES IN PROCEDURAL LAW</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CHANGES IN PROCEDURAL LAW</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CHANGES IN PROCEDURAL LAW</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  8 BLD (HCD) 270Ref. 3 (AC) 582; 5 (AC) 369; AIR 1927 (PC) 242, 8 BLD (HCD) 64, Ref. AIR 1950 (E Punjab) 25; 20 DLR (SC) 315; 21 DLR (SC) 123; 3 (AC) (1878) 582, AIR 1927 (PC) 242; 1905 (AC) 369, 8 BLD (AD) 84. Ref. AIR 1939 (FC) 743; AIR 1941 (FC) 5; AIR</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/changes-in-procedural-law">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/circumstantial-corroboration">CIRCUMSTANTIAL CORROBORATION</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CIRCUMSTANTIAL CORROBORATION</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CIRCUMSTANTIAL CORROBORATION</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  7 BLD (AD) 27, </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/circumstantial-corroboration">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-29">CIRCUMSTANTIAL EVIDENCE</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CIRCUMSTANTIAL EVIDENCE</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CIRCUMSTANTIAL EVIDENCE</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  5 BLD (AD(H) 301Ref. 11 DLR (SC) 38, 5 BLD 129.Ref. AIR 1952 (SC) 343; AIR 1976 (SC) 917; AIR 1979 (SC) 826,6 BLD (AD) 79. Ref. 11 DLR (SC) 365; 16 DLR (SC) 261 and 33 DLR 320, 8 BLD (HCD) 114, 8 BLD (HCD) 344,9 BLD (HCD) 218 Ref. 37 DLR (AD) 139; 16 DLR</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-29">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-30">COGNIZANCE</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  COGNIZANCE</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  COGNIZANCE</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  2 BLD (AD) 13,3 BID (HCD) 70,  3 BID (HCD) 108, 3 (BLD) (HCD) 184, 3 BLD (HCD) 267,  4 BLD (AD) 206,4 BLD (HCD) 264. Ref. 32 DLR 221,5 BLD (AD) 73, 5 BLD (AD) 185, 5 BLD (AD) 278. Ref. AIR 1965 (SC) I; AIR 1962 (SC) 63: AIR 1929 (Mad) 604, 5 BlD (AD) 285</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-30">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/complaint">COMPLAINT </a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  COMPLAINT </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  COMPLAINT </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  7 BLD (AD) 100</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/complaint">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/commutation-of-sentence-extenuating-circumstances">COMMUTATION OF SENTENCE — EXTENUATING CIRCUMSTANCES</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  COMMUTATION OF SENTENCE — EXTENUATING CIRCUMSTANCES</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  COMMUTATION OF SENTENCE — EXTENUATING CIRCUMSTANCES</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  3 BLD (HCD) 145, 3 BLD (HCD) 304, 5 BLD (HCD) 129, 6 BLD (HCD) 402. Ref. 13 DLR 646/203; 21 DLR (WP) 49; 32 DLR 227; 4 BLD 228, 7 BLD (AD) 324, 8 BLD (AD) 109. Ref. 39DLR (AD) 194, 10 BLD (AD) 89, 10 BLD (HCD) 38, 10 (BLD (HCD) 373, 4 BLD (HCD) 228 Ref. </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/commutation-of-sentence-extenuating-circumstances">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/confession-2">CONFESSION</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CONFESSION</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CONFESSION</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  1 BLD (HCD) 286. Ref. AIR 1931 (Lahore)38; 62 IC 570; AIR 1941 (Oudh) 517, 3 BLD (AD) 329, 3 BLD (HCD) 162, 3 BLD (HCD) 206, 3 BLD (HCD) 240 Ref. 31 DLR 3 12, 3 BLD (HCD) 293, 3 BLD (HCD) 325, 6 BLD (AD) 193 Ref. 76 IA 147; PLD 1960 (SC) 313; 12 DLR (SC)</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/confession-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">CONTEMPT OF COURT</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CONTEMPT OF COURT</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CONTEMPT OF COURT</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  1 BLD (HCD) 278, 1 BLD (HCD) 487, 2 BLD(HCD) 168,  3 BLD (AD) 251 Ref. 5 DLR (PC) 540, 3 BLD (AD) 317. Ref. 1944 ILR (Lahore) 196, 3 BLD (HCD) 232, 3 BLD (HCD) 298, 4 BLD (AD) 237, 4 BLD  (HCD) 52, 6 BLD (AD) 210. Ref. PLD 1970 (SC) 350; AIR 1983 (SC) 11</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">CONVICTION</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CONVICTION</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CONVICTION</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  10 BLD (AD) 228, 2 BLD (HCD) 170, 5 BLD (AD) 257, 6 BLD (HCD) 402</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">CORROBORATION</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CORROBORATION</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CORROBORATION</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  3 BLD (HCD) 18.Ref. 1952 SCR (Ind) 377; 10 DLR 237; 2 KB (1916) 658, 3 BLD (HCD) 108. Ref. 19 DLR (SC) 259 and 12 DLR (SC) 165, 8 BLD (HCD)210, 9 BLD (HCD) 257. Ref. 6 DLR 246, 12 BLD (AD) 87, 12 BLD (HCD) 513.Ref. 19 DLR (SC) 259; 10 DLR 532; 14 DLR 821</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">CRIMINAL LAW AMENDMENT ACT, 1958 (ACT XL OF 1958) </a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CRIMINAL LAW AMENDMENT ACT, 1958 (ACT XL OF 1958) </p>
+                    <p><b>Case Year:</b>  1958</p>
+                    <p><b>Relevant Law:</b>  CRIMINAL LAW AMENDMENT ACT, 1958 (ACT XL OF 1958) </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  3 BLD (HCD) 218, 4 RLD (AD) 125, AIR 1961 (Cal) 616; AiR 1967 (Bom) 138; AIR 1968 (Cal) 274; AIR 1970 (SC) 1065; 21 DLR (SC) 182: PLD 1969 (SC) 278; 20 DLR (WP) 48; PLD 1968 (Lahore) 101, 6 RLD (AD) 164, 6 BLD (HCD) 328, 7 BLD (HCD) 137, 9 BLD (HCD) 144,</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">THE PREVENTION OF CORRUPTION ACT, 1947 (ACT 11 OF 1947)</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  THE PREVENTION OF CORRUPTION ACT, 1947 </p>
+                    <p><b>Case Year:</b>  1947</p>
+                    <p><b>Relevant Law:</b>  THE PREVENTION OF CORRUPTION ACT, 1947 (ACT 11 OF 1947)</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  12 BLD (HCD) 495, 12 BLD (HCD) 610</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">CRIMINAL PROSECUTION</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CRIMINAL PROSECUTION</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CRIMINAL PROSECUTION</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  6 BLD (AD) 7</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">CRIMINAL RES-JUDICATA</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CRIMINAL RES-JUDICATA</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CRIMINAL RES-JUDICATA</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  8 BLD (HCD) 64 Ref. 14 DLR (SC) 96; 36 DLR (AD) 58, 5 BLD (AD) 323, 1 BLD (AD) 415, 3 BLD (HCD) 267.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-5-5">CRIMINAL TRIAL</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CRIMINAL TRIAL</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CRIMINAL TRIAL</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  2 BLD (HCD) 170. Ref. AIR 1956 (SC) 181,3 BLD (HCD) 18. Ref. 1952 SCR (Ind) 377; 10 DLR 237; 2 KB (1916) 658,  3 BLD (HCD) 182,3 BLD (HCD) 132Ref. 23 Cr.L J. 108; ILR 21 (1942) (Pat) 66. 3 BLD (HCD) 190. ref. 55 CWN 541; 3 DLR 449; 17 DLR 382, 3 BLD (HCD</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-5-5">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">CRIMINAL DEFAMATION</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CRIMINAL DEFAMATION</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CRIMINAL DEFAMATION</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  1 BLD (AD) 314. Ref. AIR 1926 (Mad) 906; 38 (Cal) 888; 28 (Bomb) 228; 49 (Mad) 315; 17 CWN 554; 19 CWN 935; AIR 1937 (All) 90; 1 QB 65</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">CRIMINAL JURISPRUDENCE</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CRIMINAL JURISPRUDENCE</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CRIMINAL JURISPRUDENCE</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33-10">DISCHARGE</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  DISCHARGE</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  DISCHARGE</p>
+                    <p><b>Relevant Section:</b>   </p>
+                    <p><b>Citation:</b>  3 BLD (HCD) 267 Ref. 14 DLR (SC) 96; 30 DLR 344,3 BLD (HCD) 267,  10 BLD (HCD) 407,  6 BLD (HCD) 96.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-33-10">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/double-jeopardy">DOUBLE JEOPARDY</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  DOUBLE JEOPARDY</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  DOUBLE JEOPARDY</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  6 BLD (AD) 94, 8 BLD (HCD) 64 Ref. 14 DLR (HCD) 96; 36 DLR (AD) 58</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/double-jeopardy">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/dying-declaration">DYING DECLARATION</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  DYING DECLARATION</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  DYING DECLARATION</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  3 BLD (HCD) 193, 5 BLD (AD) 63, 5 BLD (HCD) 110Ref. PLD 1978 (Lah) 1285; PLD 1977 (SC) 529; PLD 1971 (Lahore) 883, 8 BLD (AD) 152, 8 BLD (HCD) 389, 8 BLD (HCD) 459.Ref. 22 DLR (SC) 16, 9 BLD (AD) 13, 10 BLD (AD) 61, 10 BLD (AD) 251</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/dying-declaration">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/g-d-entry">G.D. ENTRY</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  G.D. ENTRY</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  G.D. ENTRY</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  8 BLD (AD) 93</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/g-d-entry">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-36">WRIT OF HABEAS CORPUS</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  WRIT OF HABEAS CORPUS</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  WRIT OF HABEAS CORPUS</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  1 BLD (AD) 488, Ref. 44 CWN 709; (1969) 1 All ER 208; AIR 1946 (Lahore) 103; 7 DLR (FC) 253; (1949) 1 All ER 242; (1949) 1 All ER 373; 259 US 326; 344 US 137; 33 DLR (AD) 143; 1 BLD (AD) 378; 1 BLD (AD) 307, 1 BLD (AD) 488, 6 BLD (HCD) 272, 20 DLR 1005; </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-36">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-37">HEARSAY EVIDENCE</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  HEARSAY EVIDENCE</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  HEARSAY EVIDENCE</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  1 BLD (HCD) 107.Ref. AIR 1942 (Cal) 214; 1 (1956) WLR. 965; 97 IC 785, 5 BLD (HCD) 129.Ref. 1 (1956) WLR (65 9970); 1 (1960) All ER331, 8 BLD (HCD) 36,  10 BLD (AD) 251, 10 BLD (HCD) 309</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-37">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-37">HOSTILE WITNESS</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  HOSTILE WITNESS</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  HOSTILE WITNESS</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  3 BLD (HCD) 121.Ref. AIR 1931 (Cal) (FB) 401; 2 DLR 114; 15 DLR 517, 5 BLD (AD) 198  Ref. AIR 1931 (Cal) 401 (FB); 11 DLR 301, State 6 BLD (HCD) 390,  8 BLD (HCD) 305, 8 BLD (HCD) 344</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-37">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-37">IDENTIFICATION</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  IDENTIFICATION</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  IDENTIFICATION</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  3 BLD (HCD) 162, 6 BLD (HCD) 418, 7  BlD (AD) 27, 8 BLD (HCD) 396 Ref. AIR 1925 (All) 293, 9 BLD (HCD) 474, 11 BLD (HCD) 295</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-37">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-37">INSANITY</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  INSANITY</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  INSANITY</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  7 BLD (HCD) 432</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-37">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-3">INTERPRETATION OF STATUTE</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  INTERPRETATION OF STATUTE</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  INTERPRETATION OF STATUTE</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  8 BLD (HCD) 64. Ref. AIR 1950 (Punjab) 25; 3 (AC) 582; AIR 1927 (PC) 242; 1905 (AC) 369; 20 DLR(SC)315 ;21 DLR(SC) 123, 9 BLD (HCD) (FB) 271.Ref. AIR 1955 (SC) 765; 1976 ISCC 128; 17 DLR (SC) 392; 1 (1973) All ER 576 (PC), 10 BLD (AD) 190, 10 BLD (AD) 29</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-3">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-37">INVESTIGATING OFFICER</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  INVESTIGATING OFFICER</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  INVESTIGATING OFFICER</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  7 BLD (HCD) 351, 11 BLD (AD) 2, 11 BLD (HCD) 11</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-37">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-38">JUDGMENT IN CRIMINAL APPEALS</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  JUDGMENT IN CRIMINAL APPEALS</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  JUDGMENT IN CRIMINAL APPEALS</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  4 BLD (AD) 213, 4 BLD (HCD) 297, 8 BLD (AD) 193</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-38">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-36">MOTIVE</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  MOTIVE</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  MOTIVE</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  l0 BLD(AD) 251, 11 BLD (AD) 2, 11 BLD (HCD) 240, Ref. AIR 1954 (Mad) 152; PLD 1956 (Lah) 157;  1971  (Pak) (SCMR) 432; 40 DLR 97; 37 DLR 156; 5 DLR (FC) 107; 1962 PLD (Dhaka) 206; PLD 1957 (SC) (Ind) 525</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-36">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-36"> NARAJI </a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>   NARAJI </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>   NARAJI </p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  3 BLD (HCD) 156, 3 BLD (HCD) 70, 3 BLD (HCD) 256, 7 BLD (HCD) 129.Ref. 34 DLR 424; 13 DLR (Dhaka) 9; 19 DLR (SC) 426; 35 DLR 176; 36 DLR (AD) 58</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-36">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-9">PRACTICE AND PROCEDURE</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  PRACTICE AND PROCEDURE</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  PRACTICE AND PROCEDURE</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  3 BLD (HCD ) 199, 7 BLD (HCD) 108.Ref. 25 DLR 192, 10 BLD (HCD) 119, 10 BLD (HCD) 300Ref. 7 BLD (HCD) 126, 10 BLD (HCD) 301, 11 BLD (AD) 2, 3 BLD (HCD) 199</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-9">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/test-identification-parade-t-i-parade">TEST IDENTIFICATION PARADE (T.I PARADE)</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  TEST IDENTIFICATION PARADE (T.I PARADE)</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  TEST IDENTIFICATION PARADE (T.I PARADE)</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  5 BLD (HCD) 151, 7BLD(AD)27, 8 BLD (HCD) 396 Ref. AIR 1925 (All) 223, 9 BLD (HCD) 461, 9 BLD (HCD) 485.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/test-identification-parade-t-i-parade">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-40">SANCTION</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  SANCTION</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  SANCTION</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  1 BLD (HCD) 82. Ref. AIR 1943 (FC) 18; AIR 1964 (SC) 269, 4 RLD (AD) 125, 5 RLD (AD) 185. Ref. 35DLR (AD) 324, 8 RLD (HCD) 246 Ref. AIR 1955 (SC) 309; AIR 1948 (PC) 128 (133), 9 BLD (HCD) 144. Ref. 32 DLR (AD) 100; 35 DLR 249, 9 BLD (HCD) 485, 10 BLD (AD</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-40">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-45">WITNESS</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  WITNESS</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  WITNESS</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  5 BLD (HCD) 111).Ref. 21 DLR 575; 24 DLR 217, 5 BLD (HCD) 84, 3 BLD (HCD) 277, 5 BLD (HCD) 20, 6 BLD (AD) 216, 6 BLD (HCD) 34, 7 BLD (AD) 27, 8 BLD (HCD) 106, 9 BLD (HCD) 474, 10 BLD (AD) 25 Ref. 12 DLR (SC) 289; 14 DLR (SC) 159, 11 BLD (AD) 2, 11 BLD (H</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-45">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-44">DEMEANOUR OF WITNESSES</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  DEMEANOUR OF WITNESSES</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  DEMEANOUR OF WITNESSES</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  11 BLD (AD) 2,  2 BLD (HCD) 495. Ref. 20 DLR 407; 587; 21 DLR (SC) 182; 1982 BCR (HCD) 367; AIR 1948 (Lahore) 27; AJR 1954 (SC) 322.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-44">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-44">WORKING DAYS</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  WORKING DAYS</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  WORKING DAYS</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  7 BLD (HCD) 30. Ref. 37 DLR 252, 7 BLD (HCD) 135, 8 BLD (AD) 122, 8 BLD (HCD) 450, 8 BLD (HCD) 464 Ref. 7 BLD 135, The State 9 BLD (HCD) 131 Ref. 7 BLD 30; 1986 BCR 8; 37 DLR 252.9 BLD (HCD) 405</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-44">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-7">WORDS AND PHRASES</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  WORDS AND PHRASES</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  WORDS AND PHRASES</p>
+                    <p><b>Relevant Section:</b>   </p>
+                    <p><b>Citation:</b>  PLD 1973 (SC) 49, PLD 1916 (SC) 113; PLD 1965 (SC) 671; PLD 1974 (SC) 151, 1 BLD (AD) 107. Ref. PLD 1963 (SC) 401; PLD 1960 (SC) 273; PLD 1960 (SC) 113, 1 BLD (HCD) 1073 BLD (AD) 251, 9 BLD (HCD) 65, 4 BLD (HCD) 68, 4 BLD (HCD) 264, 6 BLD (AD) 210, 6 BLD</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-7">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-1">ARMS ACT (XI OF 1878)</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ARMS  </p>
+                    <p><b>Case Year:</b>  1878</p>
+                    <p><b>Relevant Law:</b>  ARMS ACT (XI OF 1878)</p>
+                    <p><b>Relevant Section:</b>  Sections 17 and 18, 19 (A), (f), 24</p>
+                    <p><b>Citation:</b>  8 BLD (HCD) 14. Ref. AIR 1949 (All ) 484, 47 Cr.L.J. 638; AIR 1953 (All) 476; AIR 1954 (Cal) 157; AIR 1956 (Cal) 96, 8 BLD (AD)114, 11 BLD (HCD) 428.Ref. 40 DLR(AD) 170, 8 BLD (HCD) 106, 11 BLD (HCD) 11, 8 BLD (HCD) 412, 8 BLD (AD) 114.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-1">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-44">ARMY ACT, 1952 (ACT NO XXXIX OF 1952)</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  ARMY </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  ARMY ACT, 1952 (ACT NO XXXIX OF 1952)</p>
+                    <p><b>Relevant Section:</b>  Section 142 </p>
+                    <p><b>Citation:</b>  1 BLD (HCD) 481</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-44">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-44">CHILDREN ACT, 1974 (ACT XXXIX OF 1974)</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  CHILDREN </p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CHILDREN ACT, 1974 (ACT XXXIX OF 1974)</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  1 BLD (HCD) 454, 3 BLD (HCD) 193, 9 BLD (HCD) 502, 10 BLD (HCD) 236</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-44">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/code-of-criminal-procedure-v-of-1898-part-1">CODE OF CRIMINAL PROCEDURE (V OF 1898)  (Part-1)</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Criminal  Law</p>
+                    <p><b>Case Year:</b>  1898</p>
+                    <p><b>Relevant Law:</b>  CODE OF CRIMINAL PROCEDURE (V OF 1898)</p>
+                    <p><b>Relevant Section:</b>  Sections 1(2) and 339C, 4 (l)(m),  4(1 )(h) , 6(1) and 9, 8, 9(3), 29C, 31(4), 408 and 410, 9(3), 29C, 31(4), 409 and 431A, 10, 11, 12, 29, 33(1) and 386(1), 87 and 88, 103, 107, 112 and 145, 107, 119 and 439, 133, 138, 145, 146, 145 and 517, 145(6), 145</p>
+                    <p><b>Citation:</b>   10 BLD (AD) 190, 1 BLD (AD) 314, 2 BLD (HCD) 131, 7 BLD (AD) 100, 9 BLD (HCD) 144 Ref. 30 DLR (AD) 100; 35 DLR 249, 9 BLD (HCD) 271 Ref. AIR 1955 (SC) 765; 17 DLR (SC) 392; (1973) 1 All ER 576 (PC), 8 BLD (AD) 123, 3 BLD (HCD) 250,  4 BLD (HCD) 250 Ref.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/code-of-criminal-procedure-v-of-1898-part-1">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/code-of-criminal-procedure-v-of-1898-part-2">CODE OF CRIMINAL PROCEDURE (V OF 1898) (Part-2)</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Criminal Law</p>
+                    <p><b>Case Year:</b>  1898</p>
+                    <p><b>Relevant Law:</b>  CODE OF CRIMINAL PROCEDURE (V OF 1898)</p>
+                    <p><b>Relevant Section:</b>  Sections 164, 364 and 533, 342, 167, 167,  173, 167(5)(6) (7A), 169 and 173 (3B), 167 (7A), 10(2) and 18(2), 167(7), 167 (7A), 10(2) and 18(2), 173(3)(b),  173, 190, 4(1 )(m), 190, 202, 203 and 204, 190, 193, 435 and 561A, 190, 200, 202, 204 and 205C, 19</p>
+                    <p><b>Citation:</b>  8 BLD (HCD) 505.Ref. 8 BLD 210; PLD 1957 (SC) (Ind) 555; 39 DLR (AD) 117, 9 BLD (HCD) 187.Ref. 1 BLD 433; 2 DLR (PC) 1; 8 DLR 404; 8 DLR (FC) 1; AIR 1941 (Cal) 401, 9 BLD (HCD) 477Ref. 1968 (Pak) Cr.L J (Karachi) 155; 1960 PLD (Karachi) 817, 35 DLR 185 a</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/code-of-criminal-procedure-v-of-1898-part-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/code-of-criminal-procedure-v-of-1898-part-3-0">CODE OF CRIMINAL PROCEDURE (V OF 1898) (Part-3)</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Criminal Law</p>
+                    <p><b>Case Year:</b>  </p>
+                    <p><b>Relevant Law:</b>  CODE OF CRIMINAL PROCEDURE (V OF 1898)</p>
+                    <p><b>Relevant Section:</b>  Section 247, 250, 250B, 250E(3)   and 350(1), 250B, 200, 252, 253, 252, 253, 258, 263, 264, 367, 537, 265K, 265D, 265G, 265A, 265C, 265D(2), 265E, 265G, 265H and 339C, 265K, 288, 324, 367, 337, 339, 537, 339C, 339B, 339B, 339C(2)(4)(6) and 526B, 561A, </p>
+                    <p><b>Citation:</b>  8 BLD(HCD) 117, 9 BLD (HCD) 210., 3 BLD (HCD) 267.Ref. 14 DLR (SC) 96; 30 DLR 344, 4 BLD (HCD) 277.Ref. 14 DLR (SC) 96; 1978 BSCR 237, 4 BLD (HCD) 166.Ref. 30 DLR 344; 29 DLR (SC) 256. 14 DLR (SC) 96, 3 BLD (HCD) 33.Ref. 14 DLR (SC) 96; 15 DLR (SC) 55, 1</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/code-of-criminal-procedure-v-of-1898-part-3-0">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/code-of-criminal-procedure-v-of-1898-part-4">CODE OF CRIMINAL PROCEDURE (V OF 1898) (Part-4)</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Criminal Law</p>
+                    <p><b>Case Year:</b>  1898</p>
+                    <p><b>Relevant Law:</b>  CODE OF CRIMINAL PROCEDURE (V OF 1898) </p>
+                    <p><b>Relevant Section:</b>  Section 439A, 439A, 439(4) and 561A, 464, 475, 476, 491, 494, 496, 497, 498, 497 (4), 509A, 512, 514, 517, 520, 522 (3), 526, 561A, 526, 528 (2), 533, 164, 535 (2), 537, 540, 561A, 439A, </p>
+                    <p><b>Citation:</b>  4 BLD (HCD) 169, 6 BLD (AD) 128, 6 BLD (HCD) 69 Ref. 4 BLD (AD) 7,  6 BLD (HCD) 158, 7 BLD (HCD) 112.Ref. 35 DLR(AD) 127, 12 BLD (AD) 54.Ref. AIR 1945 (PC) 18; AIR 1928 (Cal) 610; AIR 1966 (Goa) 36, 8 BLD (HCD) 224, 6 BLD (AD) 128, 9 BLD (HCD) 387, 9 BLD</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/code-of-criminal-procedure-v-of-1898-part-4">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-76">CODE OF CRIMINAL PROCEDURE (SECOND AMENDMENT) ORDINANCE (XXIV OF 1982)</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Criminal Law</p>
+                    <p><b>Case Year:</b>  1982</p>
+                    <p><b>Relevant Law:</b>  CODE OF CRIMINAL PROCEDURE (SECOND AMENDMENT) ORDINANCE (XXIV OF 1982)</p>
+                    <p><b>Relevant Section:</b>  Section 35(C), 35 (D), 35</p>
+                    <p><b>Citation:</b>  3 BLD (HCD) 166, 3 BLD (HCD) 168, 4 BLD (HCD) 571.Ref. 32 DLR (AD) 100; 33 DLR (AD) 154.</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-76">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/cruelty-to-women-deterrent-punishment-ordinance-1983-6">CRUELTY TO WOMEN (DETERRENT PUNISHMENT) ORDINANCE, 1983</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Criminal Law</p>
+                    <p><b>Case Year:</b>  1983</p>
+                    <p><b>Relevant Law:</b>  CRUELTY TO WOMEN (DETERRENT PUNISHMENT) ORDINANCE, 1983</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  8 BLD (HCD) 122, 9 BLD (HCD) 43, 9 BLD (HCD) 73, 10 BLD (HCD) 119. Ref. AIR 1933 (Cal) 362; 23 DLR (DAC) 126; 35 DLR 127</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/cruelty-to-women-deterrent-punishment-ordinance-1983-6">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-78">DOWRY PROHIBITION ACT (XXXV OF 1980)</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  DOWRY PROHIBITION </p>
+                    <p><b>Case Year:</b>  1980</p>
+                    <p><b>Relevant Law:</b>  DOWRY PROHIBITION ACT (XXXV OF 1980)</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  10 BLD (HCD) 119. Ref. AIR 1933 (Cal) 362; 23 DLR (DAC) 126; 35 DLR 127</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-78">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-77">DRUG (CONTROL) ORDINANCE. 1982 AND THE DRUG ACT. 1940</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Drug</p>
+                    <p><b>Case Year:</b>  1982</p>
+                    <p><b>Relevant Law:</b>  DRUG (CONTROL) ORDINANCE. 1982 AND THE DRUG ACT. 1940</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  5 BLD (AD) 278Ref. AIR 1965 (SC) 1; AIR 1962 (SC) 63; AIR 1929 (Mad) 604, 7 BLD (HCD) 182</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-77">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/evidence-act-1872-act-1-of-1872-part-1">EVIDENCE ACT. 1872 (ACT 1 OF 1872)  (Part-1)</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  EVIDENCE  </p>
+                    <p><b>Case Year:</b>  1872</p>
+                    <p><b>Relevant Law:</b>  EVIDENCE ACT. 1872 (ACT 1 OF 1872)</p>
+                    <p><b>Relevant Section:</b>  Sections 3, 5,  8, 9, 30, 24, 25, 26, 27, </p>
+                    <p><b>Citation:</b>  1 BLD (HCD) 286.Ref. 27 DLR (AD) 29; 12 DLR (SC) 156, 217; II DLR (SC) 38 & 81, AIR 1931 (Lahore) 38, 4 BLD (AD) 193.Ref. 12 DLR (SC) 156; PLD 1960 (SC) 313; 76 IA 147, 5 BLD (AD) 301.Ref. 1 I DLR (SC) 38, 5 BLD (HCD) 129.Ref. AIR 1922 (SC) 343; AIR 1976</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/evidence-act-1872-act-1-of-1872-part-1">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/evidence-act-1872-act-1-of-1872-part-2">EVIDENCE ACT, 1872 (ACT 1 OF 1872) (Part-2)</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Law of Evidence</p>
+                    <p><b>Case Year:</b>  1872</p>
+                    <p><b>Relevant Law:</b>  EVIDENCE ACT, 1872 (ACT 1 OF 1872)</p>
+                    <p><b>Relevant Section:</b>  Section 30, 32, (2), 33, 45, 157, 64, 60, 65, 80, 101, 106, 114, 133, 114(g), 118, 134, 145, 155, 157, 146, 154, 155, 156, </p>
+                    <p><b>Citation:</b>  6 BLD (HCD) 436Ref. 16 DLR (SC) 598; 1 1 DLR (WP) 58, 4 DLR 311, 7 BLD (AD) 212.Ref. AIR 1969 (SC) 422; 27 DLR (AD) 29, 7 BLD (AD) 248. Ref. PLD 197.1 (SC) 469; PLD 1959 (SC) 377; PLD 1962 (SC) 320; PLD 1963 (SC) 157, 7 BLD (HCD) 351Ref. 12 DLR (SC) 157,</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/evidence-act-1872-act-1-of-1872-part-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/general-clauses-act-1897-14">GENERAL CLAUSES ACT, 1897</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  GENERAL CLAUSES  </p>
+                    <p><b>Case Year:</b>  1897</p>
+                    <p><b>Relevant Law:</b>  GENERAL CLAUSES ACT(X OF 1897)</p>
+                    <p><b>Relevant Section:</b>  Section 250(B) ,</p>
+                    <p><b>Citation:</b>  3 BLD (HCD) 308 Ref. 20 DLR (SC) 315; 21 DLR (SC) 123, 6 BLD (HCD) 34.Ref. 30 DLR 49, </p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/general-clauses-act-1897-14">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/industrial-relations-ordinance-1969">Industrial Relations Ordinance,1969</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  Industrial Relations </p>
+                    <p><b>Case Year:</b>  1969</p>
+                    <p><b>Relevant Law:</b>  Industrial Relations Ordinance, (XXIII OF 1969)</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  7BLD (HCD) 108</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/industrial-relations-ordinance-1969">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/law-reforms-ordinance-1978-2">LAW REFORMS ORDINANCE , 1978</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  LAW REFORMS</p>
+                    <p><b>Case Year:</b>  1878</p>
+                    <p><b>Relevant Law:</b>  LAW REFORMS ORDINANCE (XLIX OF 1978)</p>
+                    <p><b>Relevant Section:</b>  Section 4 (I), 4, </p>
+                    <p><b>Citation:</b>  1 BLD (HCD) 52,  3 BLD (HCD) 277Ref. 19DLR(SC)241, 6BLD (AD) 337Ref. 19 DLR (SC) 242; AIR 1958 (All) 439; AIR 1933 (Cal) 551; AIR 1944 (FC) 1; AIR 1920 (Mad) 337 (FB); AIR 1950 (All) 369, 1 BLD (HCD) 52, 3 BLD (HCD) 277 Ref. 19 DLR (SC) 241, 6 BLD (AD) 3</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/law-reforms-ordinance-1978-2">Read More</a> </p>
+                </div>
+              </article>
+                            <article class="blog_entry">
+                <header class="blog_entry-header">
+                  <div class="blog_entry-header-inner">
+                    <h2 class="blog_entry-title"> <a rel="bookmark" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-11">MUSLIM FAMILY LAWS ORDINANCE, 1961</a> </h2>
+                  </div>
+                  <!--blog_entry-header-inner--> 
+                </header>
+                <div class="entry-content">
+                  <div class="entry-content">
+                    <p><b>Subject:</b>  MUSLIM FAMILY LAW</p>
+                    <p><b>Case Year:</b>  1961</p>
+                    <p><b>Relevant Law:</b>  Muslim Family Laws Ordinance, 1961</p>
+                    <p><b>Relevant Section:</b>  </p>
+                    <p><b>Citation:</b>  I BLD (HCD) 163, 8 BLD (HCD) 189 Ref. ll)83 BCR (HCD) 239</p>
+                    <p><b>Appellant:</b>  </p>
+                    <p><b>Respondent:</b>  </p>
+                  </div>
+                  <p> <a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/digest/-11">Read More</a> </p>
+                </div>
+              </article>
+                    
+              </div>
+            </div>
+            
+            
+        </div>
+        
+        
+        
+        
+        
+      </div>
+    </div>
+  </div>
+  
+<!-- Footer -->
+  <!-- Footer -->
+  <footer>
+    
+    <div class="footer-inner">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-9 col-lg-9 col-md-9">
+            <div class="footer-menu">
+              <div class="menu-footer-top-menu-container"><ul id="menu-footer-top-menu" class="menu"><li id="menu-item-11397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11397"><a href="https://www.lawyersnjurists.com/about-us/">About us</a></li>
+<li id="menu-item-11398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11398"><a href="https://www.lawyersnjurists.com/our-services/">Our Services</a></li>
+<li id="menu-item-11566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11566"><a href="https://www.lawyersnjurists.com/our-clients/">Our Clients</a></li>
+<li id="menu-item-11564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11564"><a href="https://www.lawyersnjurists.com/videos/">Videos</a></li>
+<li id="menu-item-11401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11401"><a href="https://www.lawyersnjurists.com/gallery/">Gallery</a></li>
+<li id="menu-item-11400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11400"><a href="https://www.lawyersnjurists.com/inhouse-lawyer/">Career</a></li>
+<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="https://www.lawyersnjurists.com/contact-us/">Contact us</a></li>
+<li id="menu-item-11563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11563"><a href="https://www.lawyersnjurists.com/disclaimer/">Disclaimer</a></li>
+</ul></div>                <div class="menu-footer-bottom-container"><ul id="menu-footer-bottom" class="menu"><li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="https://www.lawyersnjurists.com/find-books/">Find Books</a></li>
+<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="https://www.lawyersnjurists.com/conventions-treaties/">Conventions &#038; Treaties</a></li>
+<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="https://www.lawyersnjurists.com/legal-courses/">Legal Courses</a></li>
+<li id="menu-item-11467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11467"><a href="https://www.lawyersnjurists.com/setup-business-in-bangladesh/">Setup Business</a></li>
+<li id="menu-item-11402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11402"><a href="https://www.lawyersnjurists.com/lawyer_ci/case_search">Case Management</a></li>
+<li id="menu-item-11565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11565"><a href="https://www.lawyersnjurists.com/articles-and-reports/">Articles and Reports</a></li>
+</ul></div>                <p class="coppyrightnew">© 2017 All Rights Reserved. | Designed & Developed by <a href="http://sizramsolutions.com" target="_blank" rel="nofollow"><b>SIZRAM SOLUTIONS.</b></a></p>
+            </div>
+          </div>
+          <div class="col-sm-3 col-lg-3 col-md-3">
+            <div class="pay">
+              <img src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/bkash.png" alt="">
+              <img src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/dbbl.png" alt="">
+              <img src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/mastercard.png" alt="">
+              <img src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/visa.png" alt="">
+              <img src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/rocket.png" alt="">
+              <img src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/images/paypal.png" alt="">
+            </div>
+          </div>
+          
+          
+        </div>
+      </div>
+    </div>
+    
+
+  </footer>
+</div>
+
+<!-- End Footer --> 
+
+
+<!-- bootstrap js --> 
+<script type="text/javascript" src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/js/bootstrap.min.js"></script> 
+
+
+
+<!-- DateJS -->
+    <script src="https://www.lawyersnjurists.com/lawyer_ci/asset/js/date.js"></script>
+    
+    <script src="https://www.lawyersnjurists.com/lawyer_ci/asset/js/moment.min.js"></script>
+    <script src="https://www.lawyersnjurists.com/lawyer_ci/asset/js/daterangepicker.js"></script>
+    <script src="https://www.lawyersnjurists.com/lawyer_ci/asset/js/custom.min.js"></script>
+<!-- main js --> 
+<script type="text/javascript" src="https://www.lawyersnjurists.com/lawyer_ci/frontend/js/main.js"></script>
+
+<!-- main js --> 
+
+<script type="text/javascript" src="https://www.lawyersnjurists.com/wp-content/themes/lawyers/js/main.js"></script> 
+
+
+<script type="text/javascript">
+
+
+$('#src-btn').click(function(event){
+  event.preventDefault();
+  $('.new-search-box').show();
+  });
+$('#src-hide').click(function(event){
+  event.preventDefault();
+  $('.new-search-box').hide();
+  });
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var megamenu = {"timeout":"300","interval":"100"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.lawyersnjurists.com/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.4'></script>
+<script type='text/javascript' src='https://www.lawyersnjurists.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+</body>
+
+</html>

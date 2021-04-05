@@ -1,0 +1,125 @@
+
+<article class="blog_entry">
+	<header class="blog_entry-header">
+		<div class="blog_entry-header-inner">
+			<h2 class="blog_entry-title">
+				<a href="https://www.lawyersnjurists.com/lawyer_ci/journal/abdur-rouf-khan--another-vs-jobbar-ali-howlader-2-lnj-2013-492" rel="bookmark">Abdur Rouf Khan &amp; another Vs. Jobbar Ali Howlader, 2 LNJ (2013) 492</a>
+			</h2>
+		</div>
+		<!--blog_entry-header-inner-->
+	</header>
+	<div class="entry-content">
+		<div class="entry-content">
+			<p>
+				<b>Case No:</b> Civil Revision No. 3125 of 2013 
+			</p>
+			<p>
+				<b>Judge:</b>  Sheikh Abdul Awal,
+			</p>
+			<p>
+				<b>Court:</b> High Court Division,,
+			</p>
+			<p>
+				<b>Advocate:</b> Mr. Harunur Rashid,,
+			</p>
+			<b>Citation:</b>  2 LNJ (2013) 492
+                  
+		</div>
+		<p>
+			<a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/abdur-rouf-khan--another-vs-jobbar-ali-howlader-2-lnj-2013-492">Read More</a>
+		</p>
+	</div>
+</article>
+<article class="blog_entry">
+	<header class="blog_entry-header">
+		<div class="blog_entry-header-inner">
+			<h2 class="blog_entry-title">
+				<a href="https://www.lawyersnjurists.com/lawyer_ci/journal/sree-samir-kumar-nath--ors-vs-bangladesh-and-others-2-lnj-2013-493-" rel="bookmark">Sree Samir Kumar Nath &amp; ors. Vs. Bangladesh and others, 2 LNJ (2013) 493 </a>
+			</h2>
+		</div>
+		<!--blog_entry-header-inner-->
+	</header>
+	<div class="entry-content">
+		<div class="entry-content">
+			<p>
+				<b>Case No:</b> Civil Revision No. 411 of 1994 
+			</p>
+			<p>
+				<b>Judge:</b>  Md. Ruhul Quddus,
+			</p>
+			<p>
+				<b>Court:</b> High Court Division,,
+			</p>
+			<p>
+				<b>Advocate:</b> Mr. Bivash Chandra Biswas,,
+			</p>
+			<b>Citation:</b>  2 LNJ (2013) 493 
+                  
+		</div>
+		<p>
+			<a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/sree-samir-kumar-nath--ors-vs-bangladesh-and-others-2-lnj-2013-493-">Read More</a>
+		</p>
+	</div>
+</article>
+<article class="blog_entry">
+	<header class="blog_entry-header">
+		<div class="blog_entry-header-inner">
+			<h2 class="blog_entry-title">
+				<a href="https://www.lawyersnjurists.com/lawyer_ci/journal/bureau-veritas-bivac-bangladesh-ltd-vs-customs-excise-and-vat-appellate-tribunal-dhaka-and-others-2-lnj-2013-504" rel="bookmark">BUREAU VERITAS (BIVAC) Bangladesh Ltd. Vs. Customs Excise and Vat Appellate Tribunal, Dhaka and others, 2 LNJ (2013) 504</a>
+			</h2>
+		</div>
+		<!--blog_entry-header-inner-->
+	</header>
+	<div class="entry-content">
+		<div class="entry-content">
+			<p>
+				<b>Case No:</b> Customs Appeal No. 87 of 2008 
+			</p>
+			<p>
+				<b>Judge:</b>  Md. Ruhul Quddus,
+			</p>
+			<p>
+				<b>Court:</b> High Court Division,,
+			</p>
+			<p>
+				<b>Advocate:</b> Mr. M. A. Azim Khair ,Mr. Md. Iqbal Hossain,Mr. Goutam Kumar Roy,,
+			</p>
+			<b>Citation:</b>  2 LNJ (2013) 504
+                  
+		</div>
+		<p>
+			<a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/bureau-veritas-bivac-bangladesh-ltd-vs-customs-excise-and-vat-appellate-tribunal-dhaka-and-others-2-lnj-2013-504">Read More</a>
+		</p>
+	</div>
+</article>
+<article class="blog_entry">
+	<header class="blog_entry-header">
+		<div class="blog_entry-header-inner">
+			<h2 class="blog_entry-title">
+				<a href="https://www.lawyersnjurists.com/lawyer_ci/journal/the-state-vs-government-of-bangladesh-and-others-2-lnj-2013-513" rel="bookmark">The State Vs. Government of Bangladesh and others, 2 LNJ (2013) 513</a>
+			</h2>
+		</div>
+		<!--blog_entry-header-inner-->
+	</header>
+	<div class="entry-content">
+		<div class="entry-content">
+			<p>
+				<b>Case No:</b> Suo Motu Rule No. 19 of 2010 
+			</p>
+			<p>
+				<b>Judge:</b>  A. H. M. Shamsuddin Choudhury,
+			</p>
+			<p>
+				<b>Court:</b> High Court Division,,
+			</p>
+			<p>
+				<b>Advocate:</b> Mr. Mahbubey Alam,Mr. Rokanuddin Mahmud,,
+			</p>
+			<b>Citation:</b>   2 LNJ (2013) 513
+                  
+		</div>
+		<p>
+			<a class="btn" href="https://www.lawyersnjurists.com/lawyer_ci/journal/the-state-vs-government-of-bangladesh-and-others-2-lnj-2013-513">Read More</a>
+		</p>
+	</div>
+</article>
